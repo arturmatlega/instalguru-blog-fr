@@ -7,10 +7,10 @@ fields:
   label: Layout
 - type: text
   name: seo_title
-  label: Meta Title
+  label: Tytuł (SEO)
 - type: text
   name: seo_description
-  label: Meta Description
+  label: OPIS (SEO)
 - type: datetime
   name: date
   label: Data publikacji
