@@ -2,16 +2,13 @@
 layout: index
 pagename: home
 seo_title: SEO Strona główna
-seo_description: |-
-  META Strona głowna
+seo_description: META Strona głowna
 menu: false
 menu_title: Strona główna
-page_header: Witamy! Tutaj mamy h1 dla całej strony
-page_intro: Zawór termostatyczny to podstawowy element wyposażenia, które znajduje
-  zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola
-  prawidłowej pracy instalacji. Zawory termostatyczne umożliwiają regulację przepływu
-  czynnika w podłogówce, co przekłada się również na możliwość ustawienia odpowiedniej
-  dla użytkownika temperatury.
+page_header: Sklep internetowy instalguru
+page_intro: InstalGuru to sklep internetowy będący jednym z głównych dystrybutorów
+  na rynku w zakresie techniki grzewczej, systemów instalacyjnych, armatury kuchennej
+  i łazienkowej oraz akcesoriów montażowych.
 blog_intro: 'Zawór termostatyczny to podstawowy element wyposażenia, które znajduje
   zastosowanie w systemach ogrzewania podłogowego. Dzięki niemu możliwa jest kontrola
   prawidłowej pracy instalacji. '
