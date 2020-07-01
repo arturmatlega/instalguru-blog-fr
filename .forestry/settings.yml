@@ -8,7 +8,7 @@ sections:
   label: Posty
   create: all
 - type: document
-  path: _data/translations.yml
+  path: ''
   label: Tłumaczenia
   new_doc_ext: md
   templates:
