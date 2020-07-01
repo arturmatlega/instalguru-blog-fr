@@ -2,7 +2,8 @@
 layout: index
 pagename: home
 seo_title: SEO Strona główna
-seo_description: META Strona głowna
+seo_description: |-
+  META Strona głowna
 menu: false
 menu_title: Strona główna
 page_header: Witamy! Tutaj mamy h1 dla całej strony

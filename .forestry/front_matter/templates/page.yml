@@ -12,7 +12,7 @@ fields:
 - type: text
   name: seo_title
   label: Tytuł (SEO)
-- type: text
+- type: textarea
   name: seo_description
   label: Opis (SEO)
 - type: boolean

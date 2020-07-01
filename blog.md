@@ -2,7 +2,8 @@
 layout: blog
 pagename: blog
 seo_title: Blog InstalGuru - Artykuły i specjalistyczne porady
-seo_description: Najlepsze porady w zakresie budowy, remontu lub montażu instalacji
+seo_description: |-
+  Najlepsze porady w zakresie budowy, remontu lub montażu instalacji
   wodnych i grzewczych? Sprawdź, jaką dawkę wiedzy przygotowali dla Ciebie nasi specjaliści.
 menu: true
 menu_title: Blog
