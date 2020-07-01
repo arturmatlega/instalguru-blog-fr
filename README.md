@@ -1,2 +1,4 @@
-# IG theme
-v 0.1
+# instalguru.pl
+blog
+
+*theme: ig-theme*
