@@ -5,12 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: jekyll-posts
-  label: Posts
+  label: Posty
   create: all
-- type: document
-  path: _data/translations.yml
-  label: Posts
-  match: "**/*"
 - type: document
   path: ''
   label: Tłumaczenia
