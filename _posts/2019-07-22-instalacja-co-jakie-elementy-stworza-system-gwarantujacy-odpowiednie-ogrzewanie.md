@@ -5,8 +5,8 @@ seo_title: Instalacja CO - jakie elementy stworzą system gwarantujący odpowied
 seo_description: "Budujesz dom? \U0001F3E0 Zastanawiasz się jakie elementy PEX wybrać
   do rur instalacji CO? \U0001F449 Sprawdź, które złączki będą lepsze - skręcane czy
   zaprasowywane."
-date: 2019-07-22 22:00:00 +0000
-update_date: 2019-07-22 22:00:00 +0000
+date: 2019-07-22T22:00:00.000+00:00
+update_date: 2019-07-22T22:00:00.000+00:00
 title: Instalacja CO - jakie elementy stworzą system gwarantujący odpowiednie ogrzewanie?
 small-intro: 'Każda instalacja CO może bazować na różnych rodzajach połączeń poszczególnych
   elementów. '
