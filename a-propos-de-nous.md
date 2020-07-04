@@ -1,10 +1,9 @@
 ---
 layout: page
 pagename: aboutus
-seo_title: InstalGuru - Najlepszy dystrybutor wyposażenia instalacyjnego
-seo_description: |-
-  Szukasz najlepszego dystrybutora wyposażenia instalacyjnego? Sprawdź
-  ofertę InstalGuru. Proponujemy artykuły systemów wodnych, wentylacyjnych i montażowych.
+seo_title: Instalguru | Construction, rénovation et jardinage
+seo_description: Vous êtes intéressé par les meilleures solutions ? Consultez notre
+  stock et sélectionnez les produits de qualité supérieure qui répondent à vos besoins.
 menu: true
 menu_title: À propos de nous
 page_header: À propos de nous
@@ -25,20 +24,16 @@ hreflangs:
   link: https://instalguru.cz/o-nas.html
 
 ---
-## Proponujemy między innymi elementy instalacji C.O, gazowej czy kanalizacyjnej.
+Vous recherchez un matériel de construction de haute qualité à un prix compétitif ? Instalguru est une boutique en ligne qui propose des matériaux de construction, des équipements pour la maison et le jardin. Nous vendons des produits qui peuvent améliorer l'état d'un bâtiment et renforcer sa fonctionnalité.
 
-Są to pompy i zbiorniki, zawory, odpowietrzniki, syfony, spłuczki, akcesoria do zlewozmywaków i umywalek, systemy rynnowe czy narzędzia ręczne.
+## Un large choix de produits
 
-Dzięki produktom dostępnym w naszej ofercie można w prosty sposób stworzyć sieć wodno-kanalizacyjną lub instalację grzewczą. Co więcej, można wyremontować swoją kuchnię lub łazienkę - a to wszystko w bardzo atrakcyjnych cenach.
+Nous proposons les solutions les plus efficaces fournies par les fabricants mondiaux les plus réputés. Le riche choix de produits aux paramètres variés intéressera aussi bien les spécialistes de la construction que les clients privés.
 
-Bogate doświadczenie oraz specjalistyczna wiedza sprawiają, że **oferujemy najlepsze produkty na rynku** - wyróżniające się wysoką odpornością oraz precyzją wykonania. Nasza oferta skierowana jest do wszystkich tych osób, dla których jakość i zadowolenie są najważniejsze.
+## Livraison en Europe
 
-## Co nas wyróżnia na tle konkurencji?
+Nous assurons un traitement rapide et professionnel des commandes, avec différentes formes de paiement et de livraison - adaptées à vos besoins. Nous garantissons l'expédition vers la plupart des pays européens. Vous pouvez également venir chercher votre commande vous-même.
 
-Szybka i profesjonalna obsługa - to słowa, które najbardziej charakteryzują naszą firmę. Zapewniamy elastyczne formy płatności, szybką realizację zamówień i dogodne formy transportu. Przesyłka dostępna jest zarówno na terenie Polski, jak i całej Europy. Klienci z okolic Krakowa mają także możliwość osobistego odbioru zamówionego towaru.
+## Aide professionnelle
 
-Wychodząc naprzeciw oczekiwaniom coraz szerszej grupy klientów, służymy pomocą w wyborze rozwiązań dopasowanych do indywidualnych potrzeb. Fachowe doradztwo jest jednym z głównych celów naszej firmy. Dążymy do ciągłego rozwoju - zarówno w kwestii wyboru asortymentu, jak i doskonalenia naszych specjalistów. Dokładamy wszelkich starań, aby rozwiązania dostępne w naszej ofercie były w pełni satysfakcjonujące - zarówno dla klientów indywidualnych, jak i specjalistycznych firm montażowych, z którymi współpracujemy.
-
-Jesteśmy dumni, że nasza praca przekłada się na zaufanie, którym obdarzają nas partnerzy, decydując się na ponowne skorzystanie z naszej oferty.
-
-**Wierzymy, że jest ono podstawą długoletniej, owocnej współpracy.**
+Avez-vous besoin d'un conseil sur le produit à choisir pour qu'il soit le mieux adapté au travail que vous devez effectuer ? Nos experts essaieront de résoudre votre problème et de trouver les produits qui répondent le mieux à vos besoins. Vous pouvez également utiliser les suggestions des articles publiés sur le blog. Ils regorgent d'informations spécialisées sur la construction, la rénovation, la finition de la maison et les équipements de jardin.

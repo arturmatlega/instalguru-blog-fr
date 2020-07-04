@@ -39,5 +39,6 @@ fields:
     name: link
     label: link
 pages:
+- a-propos-de-nous.md
 - blog.md
 - contact.md
