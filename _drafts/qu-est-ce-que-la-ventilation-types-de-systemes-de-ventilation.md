@@ -1,26 +1,28 @@
 ---
 layout: post
-seo_title: Ventilation - what are the types of ventilation systems?
-seo_description: Ventilation is one of the most important elements of every apartment
-  and office. How to build a good ventilation system that will make your home fresh?
+seo_title: Ventilation - quels sont les types de systèmes de ventilation ?
+seo_description: La ventilation est l'un des éléments les plus importants de chaque
+  appartement et bureau. Comment construire un bon système de ventilation ?
 date: 2019-12-23T11:00:00.000+00:00
 update_date: 2019-12-23T11:00:00.000+00:00
-title: What is ventilation? Types of ventilation systems
-small-intro: Home ventilation system might be hidden from sight, but it plays one
-  of the most important roles in every apartment.
-intro: Home ventilation system might be hidden from sight, but it plays one of the
-  most important roles in every apartment. It provides comfort and makes your home
-  fresh. Is that it’s only function? Ventilation system is an essential part of every
-  building. It reduces the levels of humidity. Excessive dampness in air might lead
-  to development of fungi and mould which are dangerous for human health. Such state
-  is risky especially for sensitive people who suffer from asthma or allergies. Ventilation
-  in buildings used to be a luxury in the past but now it should be one of its most
-  important parts, regardless of its use.
+title: Qu'est-ce que la ventilation ? Types de systèmes de ventilation
+small-intro: Le système de ventilation de la maison peut être caché, mais il joue
+  un des rôles les plus importants dans chaque appartement.
+intro: Le système de ventilation de la maison peut être caché, mais il joue un des
+  rôles les plus importants dans chaque appartement. Il assure le confort et donne
+  de la fraîcheur à votre maison. Est-ce seulement une fonction ? Le système de ventilation
+  est un élément essentiel de tout bâtiment. Il réduit les niveaux d'humidité. Une
+  humidité excessive de l'air peut entraîner le développement de champignons et de
+  moisissures qui sont dangereux pour la santé humaine. Un tel état est particulièrement
+  risqué pour les personnes sensibles qui souffrent d'asthme ou d'allergies. Autrefois,
+  la ventilation des bâtiments était un luxe, mais aujourd'hui, elle devrait être
+  l'une de ses parties les plus importantes, quelle que soit son utilisation.
 photo: "/uploads/wall-768765_960_720.webp"
-photo_desc: The appropriate system allows for air circulation in every room of a building.
+photo_desc: Le système approprié permet la circulation de l'air dans chaque pièce
+  d'un bâtiment.
 faq: []
 author_name: Mateusz Knapik
-author_desc: Sales and Customer Support Specialist at Instalguru
+author_desc: Spécialiste des ventes et de l'assistance à la clientèle chez Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
 hreflangs: []
