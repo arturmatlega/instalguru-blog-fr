@@ -1,132 +1,137 @@
 ---
 layout: post
-seo_title: What is drip irrigation system and where to install it?
-seo_description: "Wondering how to take care of your garden? \U0001F333 Drip irrigation
-  is a modern plant watering system. \U0001F449 Check if you can use it and how to
-  install it."
-date: 2020-07-26 22:00:00 +0000
-update_date: 2020-07-26 22:00:00 +0000
-title: How does drip irrigation system work? Where can it be used?
-small-intro: How to make your garden look stunning? Drip irrigation system might be
-  aa tremendous help.
-intro: How to make your garden look stunning? It's a problem of many gardeners. The
-  secret of beautiful plants lies in taking a proper care of them. One should start
-  from the basics, like everyday watering. It can be done the standard way, namely,
-  using a watering can, however nowadays it's difficult to find enough time for such
-  mundane tasks. Why not use modern technology? Watering systems such as drip irrigation
-  are the best way to go. What exactly is this method and where can you use drip system?
+seo_title: Qu'est-ce qu'un système d'irrigation goutte à goutte et où l'installer?
+seo_description: "Vous vous demandez comment prendre soin de votre jardin? \U0001F333
+  L'irrigation au goutte-à-goutte est un système moderne d'arrosage des plantes. \U0001F449
+  Vérifiez si vous pouvez l'utiliser et comment l'installer."
+date: 2020-07-26T22:00:00.000+00:00
+update_date: 2020-07-26T22:00:00.000+00:00
+title: Comment fonctionne un système d'irrigation au goutte-à-goutte? Où peut-il être
+  utilisé?
+small-intro: Comment rendre votre jardin magnifique? Un système d'irrigation au goutte-à-goutte
+  peut être d'une grande aide.
+intro: Comment rendre votre jardin magnifique? C'est un problème qui concerne de nombreux
+  jardiniers. Le secret des belles plantes réside dans le soin qu'il faut leur apporter.
+  Il faut partir de l'essentiel, comme l'arrosage quotidien. On peut le faire de la
+  manière habituelle, c'est-à-dire en utilisant un arrosoir, mais il est difficile
+  aujourd'hui de trouver assez de temps pour des tâches aussi banales. Pourquoi ne
+  pas utiliser la technologie moderne? Les systèmes d'arrosage tels que l'irrigation
+  au goutte-à-goutte sont la meilleure solution. Quelle est exactement cette méthode
+  et où pouvez-vous utiliser le système goutte à goutte?
 photo: "/uploads/na-czym-polega-nawadnianie-kropelkowe.png"
-photo_desc: Drip irrigation system – an innovative watering method
+photo_desc: Le système d'irrigation goutte à goutte - une méthode d'arrosage innovante
 faq:
-- question: What is drip irrigation?
-  answer: Drip irrigation is one of the modern methods of plants watering. It's much
-    more efficient than traditional watering and it can save a lot of time, money
-    and resources.
-- question: How a drip irrigation system works?
-  answer: A drip irrigation system consists of a drip line – a hose or tape and a
-    water source. The water flows through the line and drips out of small holes. It's
-    a solution that provides the plants a perfect amount of water.
-- question: How to make a cheap drip irrigation system?
-  answer: All you need to make a cheap drip irrigation system is a drip line and a
-    source of water. Put the drip hose or tape right by the plants so that the water
-    can flow directly to their roots. Then connect the line with water source and
-    adjust the pressure.
+- question: Qu'est-ce que l'irrigation goutte à goutte?
+  answer: L'irrigation au goutte-à-goutte est l'une des méthodes modernes d'arrosage
+    des plantes. Elle est beaucoup plus efficace que l'arrosage traditionnel et permet
+    d'économiser beaucoup de temps, d'argent et de ressources.
+- question: Comment fonctionne un système d'irrigation goutte à goutte?
+  answer: Un système d'irrigation goutte à goutte se compose d'une ligne de goutte
+    à goutte - un tuyau ou un ruban et une source d'eau. L'eau s'écoule à travers
+    la ligne et s'égoutte par de petits trous. C'est une solution qui fournit aux
+    plantes une quantité d'eau parfaite.
+- question: Comment fabriquer un système d'irrigation goutte à goutte bon marché?
+  answer: Tout ce dont vous avez besoin pour faire un système d'irrigation goutte
+    à goutte bon marché, c'est d'une ligne de goutte à goutte et d'une source d'eau.
+    Placez le tuyau d'arrosage au goutte-à-goutte ou le ruban adhésif juste à côté
+    des plantes pour que l'eau puisse s'écouler directement vers leurs racines. Ensuite,
+    connectez la ligne à la source d'eau et ajustez la pression.
 author_name: Maksymilian Ignacyk
-author_desc: Sales and Marketing Specialist at Instalguru
+author_desc: Spécialiste des ventes et du marketing chez Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: false
 hreflangs: []
 
 ---
-## What is a drip irrigation system?
+## Qu'est-ce qu'un système d'irrigation goutte à goutte?
 
-Drip irrigation is one of the most **advanced method** of plant watering. It involves automatic water distribution, which saves a lot of time and energy. Compared to standard methods – a watering can or a garden hose, a drip irrigation system is much more efficient.
+L'irrigation au goutte-à-goutte est l'une **des méthodes les plus avancées** d'arrosage des plantes. Elle implique une distribution automatique de l'eau, ce qui permet d'économiser beaucoup de temps et d'énergie. Comparé aux méthodes standard - arrosoir ou tuyau d'arrosage -, un système d'irrigation au goutte-à-goutte est beaucoup plus efficace.
 
-**In times when droughts are becoming increasingly regular, keeping the right moisture level is the most important part of plant care.** The standard methods of watering, however, are not only ineffective but also very wasteful. Even the most experienced gardener is unable to water a plant with 100% precision, providing enough moisture without any waste. It would simply take too much time. A watering system with a drip line is a perfect solution to this problem. It uses a set of tubes to transport the exact amount of water needed.
+**À une époque où les sécheresses sont de plus en plus régulières, le maintien d'un niveau d'humidité adéquat est la partie la plus importante des soins apportés aux plantes.** Cependant, les méthodes d'arrosage standard sont non seulement inefficaces, mais aussi très coûteuses. Même le jardinier le plus expérimenté est incapable d'arroser une plante avec une précision de 100 %, en fournissant suffisamment d'humidité sans aucun gaspillage. Cela prendrait tout simplement trop de temps. Un système d'arrosage avec un goutte à goutte est une solution parfaite à ce problème. Il utilise un ensemble de tubes pour transporter la quantité exacte d'eau nécessaire.
 
-## How does a drip line work?
+## Comment fonctionne une ligne de goutte à goutte?
 
-A drip irrigation system is a very simple installation. The **core component here is a drip line** – or, in some cases, a **drip tape**. Either of those is connected with a water source. The water flows through a system of pipes arranged on the ground. It drips out of tiny holes and moisturizes the plants – hence the name of the method. **Thanks to this solution, the roots system always has access to water – across the whole area covered by the system.** The moisture level can be easily adjusted by turning the tap.
+Un système d'irrigation goutte à goutte est une installation très simple. **L'élément central** est une ligne de goutte-à-goutte - ou, dans certains cas, une **bande de goutte-à-goutte**. L'un ou l'autre est relié à une source d'eau. L'eau s'écoule à travers un système de tuyaux disposés sur le sol. Elle s'écoule par de minuscules trous et hydrate les plantes - d'où le nom de la méthode. **Grâce à cette solution, le système racinaire a toujours accès à l'eau - sur toute la surface couverte par le système.** Le niveau d'humidité peut être facilement ajusté en tournant le robinet.
 
-## What are the advantages of drip irrigation?
+## Quels sont les avantages de l'irrigation au goutte-à-goutte?
 
-A drip line is a unique solution and it has many advantages. It can save a lot of time, money and resources. Why should one consider a drip irrigation system in the garden?
+Le goutte-à-goutte est une solution unique qui présente de nombreux avantages. Elle permet d'économiser beaucoup de temps, d'argent et de ressources. Pourquoi devrait-on envisager un système d'irrigation au goutte-à-goutte dans le jardin?
 
 {:.list.list-positive}
 
-* **Drip irrigation means saving water.** With the traditional sprinkling method, water is distributed to relatively random spots. The plants are moisturized, however some of the water doesn't get where it's supposed to. This leads, as it has been already mentioned, to waste. Drip watering system provides water precisely where the plant's root system is.
-* **It's a system that requires minimal attention.** After a drip line is installed, all one needs to do is turn on the water and adjust the pressure level. There is also another option – make the process completely automatic. To do this, a special controlling device is required. It can automatically turn on the water at a particular part of the day, for a given amount of time. The most advanced controllers can even react to changes in weather.
-* **The water distributed to plants is of the highest quality.** A drip irrigation system should be equipped with an appropriate filter. It protects the installation, and the user doesn't have to worry about the plants being damaged by contaminated water.
-* **A micro-irrigation system makes gardening much easier.** It means not only easier watering, but also comfortable plants feeding. A drip line is perfect for distributing a fertiliser. To do this, one only needs to equip it with a special fertiliser injector.
-* **A drip irrigation system means lesser risk of plant diseases.** The water is distributed directly into soil, so that it has no contact with overground parts of the plants. It prevents a spread of fungi and mould, which occurs quite often when plants are sprinkled with water from above. A drip line also eliminates the problem of sunburnt leaves.
-* **Such system might contribute to a better vegetable, fruit and herb harvest.** A drip watering system supports a better plant care and independence from the weather conditions. There is no need to worry that a drought will destroy the crops.
+* **L'irrigation au goutte-à-goutte permet d'économiser l'eau.** Avec la méthode d'arrosage traditionnelle, l'eau est distribuée à des endroits relativement aléatoires. Les plantes sont hydratées, mais une partie de l'eau n'arrive pas là où elle devrait. Cela conduit, comme cela a déjà été mentionné, à un gaspillage. Le système d'arrosage au goutte-à-goutte fournit de l'eau précisément là où se trouve le système racinaire de la plante.
+* **C'est un système qui demande un minimum d'attention.** Après l'installation d'une conduite d'égouttement, il suffit de mettre l'eau en marche et de régler le niveau de pression. Il existe également une autre option: rendre le processus complètement automatique. Pour ce faire, un dispositif de contrôle spécial est nécessaire. Il peut automatiquement mettre l'eau en marche à un moment précis de la journée, pendant un certain temps. Les contrôleurs les plus avancés peuvent même réagir aux changements de temps.
+* **L'eau distribuée aux plantes est de la plus haute qualité.** Un système d'irrigation goutte à goutte doit être équipé d'un filtre approprié. Il protège l'installation, et l'utilisateur n'a pas à s'inquiéter que les plantes soient endommagées par de l'eau contaminée.
+* **Un système de micro-irrigation rend le jardinage beaucoup plus facile.** Cela signifie non seulement un arrosage plus facile, mais aussi une alimentation confortable des plantes. Une ligne de goutte à goutte est parfaite pour distribuer un engrais. Pour cela, il suffit de l'équiper d'un injecteur d'engrais spécial.
+* **Un système d'irrigation au goutte à goutte signifie un risque moindre de maladies des plantes.** L'eau est distribuée directement dans le sol, de sorte qu'elle n'a aucun contact avec les parties aériennes des plantes. Elle empêche la propagation de champignons et de moisissures, ce qui se produit assez souvent lorsque les plantes sont arrosées d'eau par le haut. Une ligne d'égouttage élimine également le problème des feuilles brûlées par le soleil.
+* **Un tel système pourrait contribuer à une meilleure récolte de légumes, de fruits et d'herbes.** Un système d'arrosage au goutte-à-goutte permet de mieux soigner les plantes et de les rendre indépendantes des conditions climatiques. Il n'y a pas lieu de craindre qu'une sécheresse ne détruise les cultures.
 
-![What are the advantages of drip irrigation?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "What are the advantages of drip irrigation?")
+![Quels sont les avantages de l'irrigation au goutte-à-goutte?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "Quels sont les avantages de l'irrigation au goutte-à-goutte?")
 
-## Where can one use a drip irrigation system?
+## Où peut-on utiliser un système d'irrigation goutte à goutte?
 
-Because drip lines can cover quite large areas, it's a **recommended system for croplands**. It's perfect for watering plants like strawberries, blueberries and fruit trees. The installation gives you full control over the amount of water transported to a plant. Thanks to this there is no threat of overwatering, which could cause decay of the plants. It's an important aspect that impacts the quality of harvest.
+Comme les goutteurs peuvent couvrir des surfaces assez importantes, c'est un système **recommandé pour les terres cultivées.** Il est parfait pour arroser des plantes comme les fraises, les myrtilles et les arbres fruitiers. L'installation vous donne un contrôle total sur la quantité d'eau transportée vers une plante. Grâce à cela, il n'y a pas de risque de sur-arrosage, qui pourrait provoquer la décomposition des plantes. C'est un aspect important qui a un impact sur la qualité de la récolte.
 
-Drip irrigation is also an ideal system for private gardens. **A drip line can easily water flowerbeds, rock gardens and hedges.** It's also a good solution for potted plants. Interestingly, drip systems are becoming quite popular among balconies and patios.
+**L'irrigation au goutte-à-goutte** est également un système idéal pour les jardins privés. **Une ligne de goutte à goutte peut facilement arroser les parterres de fleurs, les rocailles et les haies**. C'est aussi une bonne solution pour les plantes en pot. Il est intéressant de noter que les systèmes goutte à goutte sont de plus en plus populaires sur les balcons et les terrasses.
 
 {:.distinction.distinction-quotation.distinction-negative}
 
-A drip irrigation system is unrecommended for lawns. In this case it is rather advised to use a standard garden hose or sprinklers.
+Un système d'irrigation au goutte-à-goutte n'est pas recommandé pour les pelouses. Dans ce cas, il est plutôt conseillé d'utiliser un tuyau d'arrosage standard ou des arroseurs.
 
-## Are there any disadvantages of drip irrigation?
+## Y a-t-il des inconvénients à l'irrigation au goutte-à-goutte?
 
-Despite the undeniable benefits of a drip irrigation system, one should also know its disadvantages. It's a system that cannot be really moved around, therefore it should be used mainly for perennial plants. A drip line, like every water installation, is susceptible to dirt. It might cause clogging. **Each element of the system should be maintained regularly.** Another problem is the difficulty to adjust the intensity of watering for certain plants. It can be solved by using a splitter to create several independent drip lines.
+Malgré les avantages indéniables d'un système d'irrigation au goutte-à-goutte, il faut aussi en connaître les inconvénients. C'est un système qui ne peut pas vraiment être déplacé, c'est pourquoi il doit être utilisé principalement pour les plantes vivaces. Comme toute installation d'eau, le goutte-à-goutte est sensible à la saleté. Elle peut se boucher. **Chaque élément du système doit être entretenu régulièrement.** Un autre problème est la difficulté de régler l'intensité de l'arrosage pour certaines plantes. Il peut être résolu en utilisant un séparateur pour créer plusieurs lignes de goutte-à-goutte indépendantes.
 
-![Are there any disadvantages of drip irrigation?](/uploads/linia-kroplujaca-nawadnianie.jpg "Are there any disadvantages of drip irrigation?")
+![Y a-t-il des inconvénients à l'irrigation au goutte-à-goutte?](/uploads/linia-kroplujaca-nawadnianie.jpg "Y a-t-il des inconvénients à l'irrigation au goutte-à-goutte?")
 
-## Drip watering system – what elements are needed to create an installation?
+## Système d'arrosage au goutte-à-goutte - quels sont les éléments nécessaires pour créer une installation?
 
-Drip irrigation is not a complicated system, and it's not difficult to install. Before doing that, one should equip themselves with all crucial components:
-
-{:.list.list-positive}
-
-* **Drip line** – a tube or a special tape used for watering. It's an element that can be placed directly on the ground, or it can be covered with soil.
-* **Emitters** – they are attached to the drip line and placed right by the plant.
-* **Water filter** – an essential part of a micro-irrigation system. It removes any water contamination and prevents the system failures.
-* **Additional components** – depending on the particular type of a drip irrigation system, one can use stakes for holding the drip lines and emitters as well as band clips, connectors and splitters.
-* **Irrigation controller** – although it's an optional element, it's a highly recommended investment. It allows for full control and automation of the process.
-
-### A drip line – which is better: tubes or tapes?
-
-Construction of a drip irrigation system involves making the decision on what to use for water distribution. There are several options available on the market. **The most popular ones are a drip hose and a drip tape.** Which is the better one? It mostly depends on what plants you are going to water and on your possibilities.
-
-{:.distinction.distinction-info.distinction-positive}
-
-A drip tape is typically used for small vegetable and fruit crops, flower beds and potted plants. A drip irrigation that uses a system of tubes is perfect for watering hedges, smaller trees and orchards. For the last one, it is advised to combine the drip irrigation with additional water distribution points – sprinklers.
-
-## Drip irrigation system installation – how to do it yourself?
-
-There are many companies offering the installation of drip lines. It's useful if a drip irrigation system is going to cover a widespread area, such as a large cropland. **However, if you want to install a small, uncomplicated micro-irrigation system in your garden, consider doing it yourself.** It's not very difficult.
-
-Depending on the line you choose, place a hose or a tape on the ground. Usually, it is held by a set of special stakes. **Some systems can be buried underground**. Arrange the lines so that they lay right by the plants. The next step involves installing the emitters (if they are included in the system). Lastly, connect the drip line with a water source. If needed, you can also split the main line using several tubes.
-
-The simplest drip irrigation systems are controlled by simply turning the tap on or off. **Manufacturers also offer special irrigation controllers.** Using them, one can plan watering for a particular day and hour. Thanks to this solution, a drip irrigation can run by itself, not requiring any special attention.
-
-## Drip irrigation system – estimated costs
-
-Are you wondering how expensive a drip irrigation system is? As most installations of this type, the price depends on individual factors. One should estimate the area that is going to be covered by the system. This aspect dictates the number of drip lines that should be installed. **The price obviously depends also on the manufacturer, therefore it is advised to compare the quality and value of available brands.**
-
-{:.distinction.distinction-info.distinction-positive}
-
-The less complicated the installation is, the less it costs. For this reason one should review all solutions that could be used. Small designs can surely give up electronic controllers, unless convenience is the priority. One can also decrease the costs by choosing to install the system by themselves.
-
-![Drip irrigation system – estimated costs](/uploads/podlewanie-kropelkowe.jpg "Drip irrigation system – estimated costs")
-
-## What else should one remember when installing drip irrigation?
-
-Because all gardens are different, one should keep every detail in mind when choosing a drip irrigation system: from the shape of terrain to drip line colour. This way one can **create a system that will match all needs and serve for years.**
+L'irrigation au goutte-à-goutte n'est pas un système compliqué, et il n'est pas difficile à installer. Avant de le faire, il faut s'équiper de tous les éléments essentiels:
 
 {:.list.list-positive}
 
-* Is your garden situated on a hill or an uneven terrain? It doesn't mean that drip irrigation is not for you. Just use a **pressure regulator** – a device that will allow the water to flow upwards.
-* Remember **the emitters arrangement** depends mostly on the type of soil your plants grow in. The more loose the ground is, the more emitters you need. If the soil is quite dense, place them more sparsely to prevent water retention.
-* What hose colour to choose? **The most popular drip lines are available in neutral tones: green, black or brown.** This way one can easily mask the tube, increasing the aesthetics of the garden. You could also choose stronger colours and expose the hose for decorative purposes.
-* What do to with the drip lines after the season? **The equipment should be put away for winter** to avoid damage from the weather conditions.
-* You have expanded the crops area and now the drip irrigation system covers it only partially? **You can always extend the drip lines**. To do this, use special connectors.
+* **Ligne de goutte-à-goutte** - un tube ou un ruban spécial utilisé pour l'arrosage. C'est un élément qui peut être placé directement sur le sol ou être recouvert de terre.
+* **Les émetteurs** - ils sont fixés à la ligne d'égouttage et placés juste à côté de la plante.
+* **Le filtre à eau** - un élément essentiel d'un système de micro-irrigation. Il élimine toute contamination de l'eau et prévient les pannes du système.
+* **Composants supplémentaires** - selon le type particulier de système d'irrigation goutte à goutte, on peut utiliser des piquets pour maintenir les lignes de goutte à goutte et les émetteurs ainsi que des clips, des connecteurs et des séparateurs de bande.
+* **Contrôleur d'irrigation** - bien que ce soit un élément optionnel, c'est un investissement fortement recommandé. Il permet de contrôler et d'automatiser entièrement le processus.
 
-**A drip irrigation system is a perfect solution for every garden.** Thanks to it you can easily and effortlessly take care of your plants. A drip line means not only time and money saved, but also a beautiful and healthy garden. It's a universal system that can be used both for professional farming as well as for private gardens, balconies and patios.
+### Une ligne de goutte à goutte - qu'est-ce qui est le mieux: des tubes ou des bandes?
+
+La construction d'un système d'irrigation au goutte-à-goutte implique la prise de décision sur ce qu'il faut utiliser pour la distribution de l'eau. Plusieurs options sont disponibles sur le marché. **Les plus populaires sont un tuyau d'arrosage et un ruban d'arrosage.** Laquelle est la meilleure? Cela dépend surtout des plantes que vous allez arroser et de vos possibilités.
+
+{:.distinction.distinction-info.distinction-positive}
+
+Le ruban adhésif est généralement utilisé pour les petites cultures de légumes et de fruits, les parterres de fleurs et les plantes en pot. Un système d'irrigation au goutte à goutte utilisant un système de tubes est parfait pour l'arrosage des haies, des petits arbres et des vergers. Pour ce dernier, il est conseillé de combiner l'irrigation goutte à goutte avec des points de distribution d'eau supplémentaires - les arroseurs.
+
+## Installation d'un système d'irrigation goutte à goutte - comment le faire soi-même?
+
+Il existe de nombreuses entreprises qui proposent l'installation de goutte-à-goutte. C'est utile si un système d'irrigation au goutte-à-goutte doit couvrir une vaste zone, par exemple une grande terre cultivée. **Toutefois, si vous souhaitez installer un petit système de micro-irrigation simple dans votre jardin, pensez à le faire vous-même.** Ce n'est pas très difficile.
+
+Selon la ligne que vous choisissez, placez un tuyau ou un ruban adhésif sur le sol. En général, il est tenu par un ensemble de piquets spéciaux. **Certains systèmes peuvent être enterrés sous terre**. Disposez les lignes de manière à ce qu'elles soient à proximité immédiate des plantes. L'étape suivante consiste à installer les émetteurs (s'ils sont inclus dans le système). Enfin, raccordez la ligne de goutte à goutte à une source d'eau. Si nécessaire, vous pouvez également séparer la ligne principale en utilisant plusieurs tubes.
+
+Les systèmes d'irrigation goutte à goutte les plus simples sont contrôlés en ouvrant ou en fermant simplement le robinet. **Les fabricants proposent également des contrôleurs d'irrigation spéciaux.** Grâce à eux, on peut planifier l'arrosage pour un jour et une heure donnés. Grâce à cette solution, une irrigation au goutte-à-goutte peut fonctionner toute seule, ne nécessitant aucune attention particulière.
+
+## Système d'irrigation au goutte-à-goutte - coûts estimés
+
+Vous vous demandez combien coûte un système d'irrigation au goutte-à-goutte? Comme la plupart des installations de ce type, le prix dépend de facteurs individuels. Il convient d'estimer la surface qui sera couverte par le système. Cet aspect détermine le nombre de goutteurs qui doivent être installés. **Le prix dépend évidemment aussi du fabricant, c'est pourquoi il est conseillé de comparer la qualité et la valeur des marques disponibles.**
+
+{:.distinction.distinction-info.distinction-positive}
+
+Moins l'installation est compliquée, moins elle coûte. C'est pourquoi il convient d'examiner toutes les solutions qui pourraient être utilisées. Les petits modèles peuvent certainement renoncer aux contrôleurs électroniques, à moins que la commodité ne soit la priorité. On peut également réduire les coûts en choisissant d'installer le système par soi-même.
+
+![Système d'irrigation au goutte-à-goutte - coûts estimés](/uploads/podlewanie-kropelkowe.jpg "Système d'irrigation au goutte-à-goutte - coûts estimés")
+
+## De quoi faut-il encore se souvenir lorsqu'on installe un système d'irrigation au goutte-à-goutte?
+
+Parce que tous les jardins sont différents, il faut garder à l'esprit tous les détails lors du choix d'un système d'irrigation au goutte-à-goutte: de la forme du terrain à la couleur de la ligne de goutte-à-goutte. De cette façon, on peut **créer un système qui répondra à tous les besoins et qui servira pendant des années**.
+
+{:.list.list-positive}
+
+* Votre jardin est-il situé sur une colline ou sur un terrain accidenté? Cela ne signifie pas que l'irrigation au goutte-à-goutte n'est pas pour vous. Utilisez simplement un **régulateur de pression** - un dispositif qui permet à l'eau de s'écouler vers le haut.
+* N'oubliez pas que **la disposition des émetteurs** dépend principalement du type de sol dans lequel poussent vos plantes. Plus le sol est meuble, plus vous avez besoin d'émetteurs. Si le sol est assez dense, placez-les de façon plus clairsemée pour éviter la rétention d'eau.
+* Quelle couleur de tuyau choisir? **Les tuyaux les plus populaires sont disponibles dans des tons neutres**: vert, noir ou marron. De cette façon, on peut facilement masquer le tuyau, ce qui augmente l'esthétique du jardin. Vous pouvez également choisir des couleurs plus vives et exposer le tuyau à des fins décoratives.
+* Que faire des gouttières après la saison? **Le matériel doit être rangé pour l'hiver afin d'éviter** les dommages causés par les conditions météorologiques.
+* Vous avez étendu la superficie des cultures et maintenant le système d'irrigation au goutte à goutte ne la couvre que partiellement? **Vous pouvez toujours étendre les lignes de goutte à goutte.** Pour ce faire, utilisez des connecteurs spéciaux.
+
+**Un système d'irrigation au goutte-à-goutte est une solution parfaite pour chaque jardin.** Grâce à lui, vous pouvez prendre soin de vos plantes facilement et sans effort. Un système d'irrigation goutte à goutte signifie non seulement un gain de temps et d'argent, mais aussi un jardin beau et sain. C'est un système universel qui peut être utilisé aussi bien pour l'agriculture professionnelle que pour les jardins, balcons et patios privés.
