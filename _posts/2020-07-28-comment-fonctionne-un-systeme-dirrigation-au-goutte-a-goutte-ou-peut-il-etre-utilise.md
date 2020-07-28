@@ -1,9 +1,9 @@
 ---
 layout: post
 seo_title: Qu'est-ce qu'un système d'irrigation goutte à goutte et où l'installer?
-seo_description: "Vous vous demandez comment prendre soin de votre jardin? \U0001F333
-  L'irrigation au goutte-à-goutte est un système moderne d'arrosage des plantes. \U0001F449
-  Vérifiez si vous pouvez l'utiliser et comment l'installer."
+seo_description: "Comment prendre soin de votre jardin? \U0001F333 L'irrigation au
+  goutte-à-goutte est une nouvelle méthode d'arrosage. \U0001F449 Vérifiez comment
+  l'installer."
 date: 2020-07-26T22:00:00.000+00:00
 update_date: 2020-07-26T22:00:00.000+00:00
 title: Comment fonctionne un système d'irrigation au goutte-à-goutte? Où peut-il être
@@ -39,7 +39,7 @@ faq:
 author_name: Maksymilian Ignacyk
 author_desc: Spécialiste des ventes et du marketing chez Instalguru
 author_photo: "/uploads/maks.jpg"
-toc: false
+toc: true
 hreflangs: []
 
 ---
