@@ -41,7 +41,7 @@ author_desc: Spécialiste des ventes et du marketing chez Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
 hreflangs:
-- lang: cz
+- lang: cs
   link: https://instalguru.cz/blog/co-je-kapaci-zavlazovaci-system-a-kde-ho-instalovat.html
 - lang: es
   link: https://instalguru.es/blog/que-es-el-sistema-de-riego-por-goteo-y-donde-instalarlo.html
