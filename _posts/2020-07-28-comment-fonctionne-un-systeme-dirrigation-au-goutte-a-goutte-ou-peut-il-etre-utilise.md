@@ -40,7 +40,13 @@ author_name: Maksymilian Ignacyk
 author_desc: Spécialiste des ventes et du marketing chez Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/na-czym-polega-nawadnianie-kropelkowe-gdzie-je-zastosowac.html
+- lang: en
+  link: https://instalguru.co.uk/blog/how-does-drip-irrigatioon-system-work-where-can-it-be-used.html
+- lang: fr
+  link: https://instalguru.fr/blog/comment-fonctionne-un-systeme-dirrigation-au-goutte-a-goutte-ou-peut-il-etre-utilise.html
 
 ---
 ## Qu'est-ce qu'un système d'irrigation goutte à goutte?
