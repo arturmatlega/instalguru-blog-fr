@@ -48,7 +48,7 @@ hreflangs:
 - lang: de
   link: ''
 - lang: pl
-  link: https://instalguru.pl/blog/jaki-system-poziomowania-plytek-wybrac-top-3-produktow.html
+  link: ''
 - lang: fr
   link: ''
 - lang: en
