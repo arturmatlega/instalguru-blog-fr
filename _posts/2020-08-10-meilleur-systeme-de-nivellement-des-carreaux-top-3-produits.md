@@ -1,11 +1,10 @@
 ---
 layout: post
 seo_title: Meilleur système de nivellement des carreaux - TOP 3 Produits
-seo_description: "Comment poser des carreaux ? Ne perdez pas de temps. \U0001F449
-  Choisissez le système de nivellement des carreaux. Voir le TOP 3 \U0001F3C6 des
-  produits."
-date: 2020-08-05 21:00:00 +0000
-update_date: 2020-08-05 21:00:00 +0000
+seo_description: "Comment poser des carreaux? Ne perdez pas de temps. \U0001F449 Choisissez
+  le système de nivellement des carreaux. Voir le TOP 3 \U0001F3C6 des produits."
+date: 2020-08-10 09:00:00 +0000
+update_date: 2020-08-10 09:00:00 +0000
 title: Quel est le meilleur système de nivellement des tuiles ? TOP 3 Produits
 small-intro: Vous prévoyez une rénovation et vous voulez poser du carrelage dans la
   cuisine ? Vous avez besoin de carreler la salle de bains ? Vous pouvez vous faciliter
