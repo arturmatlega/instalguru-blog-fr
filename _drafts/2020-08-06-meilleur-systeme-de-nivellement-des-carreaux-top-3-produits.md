@@ -55,93 +55,93 @@ hreflangs:
   link: ''
 
 ---
-## What is a tile leveling system?
+## Qu'est-ce qu'un système de nivellement des tuiles ?
 
-A tile leveling system is a **set of elements thanks to whose it is much easier to fit and grout the tiles.** It contains **clips and wedges** made from plastic material. They can be used to level the tiles on the floor or the wall. They should be placed between adjacent tiles.
+Un système de nivellement de tuiles est un **ensemble d'éléments grâce auxquels il est beaucoup plus facile de poser et de jointoyer les tuiles.** Il contient des **clips et des cales** en matière plastique. Ils peuvent être utilisés pour niveler les carreaux au sol ou au mur. Ils doivent être placés entre les dalles adjacentes.
 
-**Using a modern tile leveling system is a perfect solution both for professionals and for unexperienced users.** Thanks to this method the whole process is much easier and more importantly, quicker. It's estimated that a **tile leveling system can save up to 50% of time** compared to laying tiles using traditional spacers.
+**L'utilisation d'un système moderne de nivellement des carreaux est une solution parfaite, tant pour les professionnels que pour les utilisateurs inexpérimentés.** Grâce à cette méthode, l'ensemble du processus est beaucoup plus facile et, surtout, plus rapide. On estime qu'un **système de nivellement des carreaux peut faire gagner jusqu'à 50 % de temps** par rapport à la pose de carreaux à l'aide d'entretoises traditionnelles.
 
-![What is a tile leveling system?](/uploads/system-poziomowania-plytek-szczypce.jpg "What is a tile leveling system?")
+![Qu'est-ce qu'un système de nivellement des tuiles ?](/uploads/system-poziomowania-plytek-szczypce.jpg "Qu'est-ce qu'un système de nivellement des tuiles ?")
 
-## How does a tile leveling system work?
+## Comment fonctionne un système de nivellement des tuiles ?
 
-A standard tile leveling system contains **specially shaped clips and wedges that have characteristic bumps on the surface.** It's important that one uses both of those elements to achieve the expected results.
+Un système de nivellement de carrelage standard contient des clips et **des cales de forme spéciale qui présentent des bosses caractéristiques à la surface**. Il est important d'utiliser ces deux éléments pour obtenir les résultats escomptés.
 
-The equipment should be used when setting the tiles on the surface. Before doing that, one needs putting a clip between two adjacent tiles. Then, a wedge should be stuck in the clip. It presses **the tile to the floor or the wall**, which results in leveling the surface.
+L'équipement doit être utilisé lors de la pose des carreaux sur la surface. Avant cela, il faut placer un clip entre deux tuiles adjacentes. Ensuite, une cale doit être collée dans le clip. Elle presse **le carreau contre le sol ou le mur**, ce qui a pour effet de niveler la surface.
 
-The bumps or carvings on the wedges are very important. They prevent the element from moving and stabilize the tiles. **It's definitely much more efficient solution than placing cross spacers which don't hold the tiles at all.** What's more, a tile leveling system is far easier to use. There is no need to use any additional equipment like a level - which might make the process much longer and more complicated.
+Les bosses ou sculptures sur les cales sont très importantes. Elles empêchent l'élément de bouger et stabilisent les carreaux. **C'est certainement une solution beaucoup plus efficace que de placer des entretoises transversales qui ne tiennent pas du tout les carreaux.** De plus, un système de mise à niveau des tuiles est beaucoup plus facile à utiliser. Il n'est pas nécessaire d'utiliser un équipement supplémentaire comme un niveau - ce qui pourrait rendre le processus beaucoup plus long et plus compliqué.
 
-## Where can you use a tile leveling system?
+## Où peut-on utiliser un système de nivellement des tuiles ?
 
-Although many believe that a tile leveling system can be used only for floors, in reality **it is  a highly universal solution**. It means you can use it for tiling walls, or even stairs as well.
+Bien que beaucoup pensent qu'un système de nivellement de carreaux ne peut être utilisé que pour les sols, **il s'agit en réalité d'une solution très universelle**. Cela signifie que vous pouvez l'utiliser pour carreler les murs, ou même les escaliers.
 
-Note that it doesn't matter what kind of tiles you use. They can be made of:
+Notez que le type de carrelage que vous utilisez n'a pas d'importance. Ils peuvent être faits de :
 
 {:.list.list-positive}
 
-* ceramic,
+* céramique,
 * grés,
-* granite,
-* stone.
+* granit,
+* pierre.
 
-![Where can you use a tile leveling system?](/uploads/system-poziomowania-plytek-top3.jpg "Where can you use a tile leveling system?")
+![Où peut-on utiliser un système de nivellement des tuiles ?](/uploads/system-poziomowania-plytek-top3.jpg "Où peut-on utiliser un système de nivellement des tuiles ?")
 
-## Is a tile leveling system worth it? Advantages of the solution
+## Un système de nivellement des tuiles en vaut-il la peine ? Avantages de la solution
 
-**A tile leveling system is a universal solution** - you can use it for various types of surfaces.  It can be used both inside, as well as on the areas located outside the building.
+**Un système de nivellement des carreaux est une solution universelle** - vous pouvez l'utiliser pour différents types de surfaces.  Il peut être utilisé aussi bien à l'intérieur qu'à l'extérieur du bâtiment.
 
-Using this type of equipment, **you can lay tiles of any type** - regardless of the size and thickness. In any case, you can get a perfectly even surface.
+Grâce à ce type d'équipement, **vous pouvez poser des carreaux de tout type**, quelles que soient leur taille et leur épaisseur. Dans tous les cas, vous pouvez obtenir une surface parfaitement plane.
 
-Leveled tiles are only one of the advantages. Additionally, you also get a possibility to get perfectly even grouting across the whole surface. Evenly set tiles means exactly the same width between each of them. Thanks to this, the grouting looks exceptionally elegant.
+Le carrelage nivelé n'est qu'un des avantages. En outre, vous avez également la possibilité d'obtenir un jointoiement parfaitement uniforme sur toute la surface. Des carreaux posés de manière régulière signifient que la largeur entre chacun d'eux est exactement la même. Grâce à cela, le jointoiement est d'une élégance exceptionnelle.
 
-## TOP 3 - the most popular tile leveling systems
+## TOP 3 - les systèmes de nivellement de tuiles les plus populaires
 
-Most users associate a tile leveling system with a set of clips and wedges. It is, of course, correct. However, one can find various sets that slightly differ in terms of their usage - which results from the elements' different construction. There are also systems that have a completely different structure.
+La plupart des utilisateurs associent un système de mise à niveau des tuiles à un ensemble de clips et de cales. C'est, bien sûr, correct. Cependant, on peut trouver divers ensembles qui diffèrent légèrement en termes d'utilisation - ce qui résulte de la construction différente des éléments. Il existe également des systèmes qui ont une structure complètement différente.
 
-**We present TOP 3 products which are most popular among specialists and rated as the best.**
+**Nous vous présentons le TOP 3 des produits les plus populaires auprès des spécialistes et considérés comme les meilleurs.**
 
-### A tile leveling system with anchor-shaped clips
+### Un système de nivellement des tuiles avec des clips en forme d'ancre
 
-It's the most popular tile leveling system - both among experts and do-it-yourselfers who want to lay the tiles themselves. The **clips have a special design - they resemble an anchor or an inverted "T."**
+C'est le système de nivellement de carreaux le plus populaire - tant chez les experts que chez les bricoleurs qui veulent poser eux-mêmes les carreaux. Les **clips ont un design spécial - ils ressemblent à une ancre ou à un "T" inversé.**
 
-The slightly raised endings on the both sides of a clip are placed under the tiles. Then, a wedge is put on the clip. In this type of set, the wedge is open at one side. It surrounds the clip's stem. **After putting a pressure, it gets blocked by the bumps on its surface.**
+Les extrémités légèrement surélevées des deux côtés d'une agrafe sont placées sous les tuiles. Ensuite, une cale est placée sur le clip. Dans ce type d'ensemble, la cale est ouverte d'un côté. Elle entoure la tige de l'agrafe. **Après avoir exercé une pression, elle est bloquée par les bosses à sa surface.**
 
-It's common such a set also contains special pliers. Thanks to them, **setting the system and its elements is much quicker** and it doesn't require putting any force to it.
+Il est courant qu'un tel ensemble contienne également des pinces spéciales. Grâce à elles, la mise en **place du système et de ses éléments est beaucoup plus rapide** et ne nécessite aucune force.
 
-![Tile leveling system with anchor-shaped clips](/uploads/system_poziomowania_ranking.jpg "Tile leveling system with anchor-shaped clips")
+![Système de nivellement des tuiles avec des clips en forme d'ancre](/uploads/system_poziomowania_ranking.jpg "Système de nivellement des tuiles avec des clips en forme d'ancre")
 
-### A tile leveling system with standard clips and wedges
+### Un système de mise à niveau des tuiles avec des clips et des cales standard
 
-One of the most commonly used option is a tile leveling system which uses **classic clips and wedges**. In this case, a clip resembles a window with a base at the bottom. The window is simply the space for a wedge. It's different than the previous system - the wedge should be slid in the middle of the clip. Thanks to the characteristic bumps one can put a maximum pressure on the wedge and as a result level the tiles perfectly.
+L'une des options les plus couramment utilisées est un système de nivellement des tuiles qui utilise des **clips et des cales classiques**. Dans ce cas, un clip ressemble à une fenêtre avec une base en bas. La fenêtre est simplement l'espace pour une cale. C'est différent du système précédent - la cale doit être glissée au milieu du clip. Grâce aux bosses caractéristiques, on peut exercer une pression maximale sur la cale et, par conséquent, niveler parfaitement les carreaux.
 
-![A tile leveling system with standard clips and wedges](/uploads/system_poziomowania_ranking_2.jpg "A tile leveling system with standard clips and wedges")
+![Un système de mise à niveau des tuiles avec des clips et des cales standard](/uploads/system_poziomowania_ranking_2.jpg "Un système de mise à niveau des tuiles avec des clips et des cales standard")
 
-### A reusable tile leveling system
+### Un système de nivellement des tuiles réutilisable
 
-Manufacturers also offer a reusable tile leveling system, which uses twisted elements. They are **quite different the classic ones**. The differences lie both is the construction and the usage.
+Les fabricants proposent également un système de nivellement des carreaux réutilisable, qui utilise des éléments tordus. Ils sont très **différents des éléments classiques**. La différence réside à la fois dans la construction et dans l'utilisation.
 
-This type of a tile leveling system uses two elements as well. The main part is a clip with a large thread and a metal element shaped like a "T". The other element is a cap, which secures a tile.
-
-{:.distinction.distinction-info.distinction-negative}
-
-It's not an entirely flawless solution. In this case you have to use additional tile cross spacers, which takes more time and might be difficult for unexperienced users. Furthermore, after leveling the tiles, the clips have to be removed after a few hours. It might ruin the tiles level.
-
-![A reusable tile leveling system](/uploads/system_poziomowania_ranking_3.jpg "A reusable tile leveling system")
-
-## A tile leveling system - single-use or reusable?
-
-A tile leveling system which uses clips and wedges might be partially reused. The clips are single-use elements. You can, however, **reuse the wedges**. It's a common solution among experts, who can save a lot by buying only the missing clips.
+Ce type de système de nivellement de tuiles utilise également deux éléments. La partie principale est un clip avec un gros fil et un élément métallique en forme de "T". L'autre élément est un capuchon, qui fixe une tuile.
 
 {:.distinction.distinction-info.distinction-negative}
 
-It's important to control the condition of the wedges. After several uses they might get worn - it can be judged by the state of the bumps that hold the wedge in a clip. If you noticed such an occurrence - you might decide to buy new wedges.
+Ce n'est pas une solution entièrement sans faille. Dans ce cas, vous devez utiliser des entretoises supplémentaires, ce qui prend plus de temps et peut être difficile pour les utilisateurs inexpérimentés. De plus, après avoir nivelé les tuiles, les clips doivent être retirés au bout de quelques heures. Cela pourrait ruiner le niveau des tuiles.
 
-**A great advantage of a reusable tile leveling system is definitely the fact that it can be used many times, which can save some money.** Nevertheless, many users claim that using it is far less convenient. The necessity to use cross spacers is a great disadvantage. It not only makes the work longer for experts, but for unexperienced users it also might be quite problematic.
+![Un système de nivellement des tuiles réutilisables](/uploads/system_poziomowania_ranking_3.jpg "Un système de nivellement des tuiles réutilisables")
 
-## How to choose a tile leveling system?
+## Un système de nivellement des tuiles - à usage unique ou réutilisable ?
 
-Quality is definitely the most important aspect when choosing a tile leveling system. **Material of the elements is quite significant.** A durable, damage-resistant material used for production guarantees the stability of the tiles, hence it's a crucial matter.
+Un système de nivellement de tuiles qui utilise des clips et des cales peut être partiellement réutilisé. Les clips sont des éléments à usage unique. Vous pouvez cependant **réutiliser les cales**. C'est une solution courante chez les experts, qui peuvent économiser beaucoup en n'achetant que les clips manquants.
 
-There is also another aspect of great significance for systems with clips and wedges - whether the **manufacturer offers a possibility to buy each of those elements later, separately**. It's crucial especially for professionals who use the same wedges many times.
+{:.distinction.distinction-info.distinction-negative}
 
-The price of a set is, of course also very important. Calculate how many elements you can buy for a given price and check whether the manufacturer offers sets with additional equipment like pliers for pressing wedges to tiles. It's a good way to catch great offers that are worth investing.
+Il est important de contrôler l'état des cales. Après plusieurs utilisations, elles peuvent s'user - on peut en juger par l'état des bosses qui maintiennent la cale dans un clip. Si vous constatez un tel phénomène, vous pouvez décider d'acheter de nouvelles cales.
+
+**L'un des grands avantages d'un système de nivellement réutilisable est sans aucun doute le fait qu'il peut être utilisé plusieurs fois, ce qui peut permettre d'économiser de l'argent.** Néanmoins, de nombreux utilisateurs affirment que son utilisation est beaucoup moins pratique. La nécessité d'utiliser des entretoises transversales est un grand inconvénient. Non seulement cela allonge le travail des experts, mais pour les utilisateurs inexpérimentés, cela peut aussi être assez problématique.
+
+## Comment choisir un système de nivellement des tuiles ?
+
+La qualité est certainement l'aspect le plus important dans le choix d'un système de nivellement de tuiles. **La matière des éléments est très importante.** Un matériau durable et résistant aux dommages utilisé pour la production garantit la stabilité des tuiles, c'est donc une question cruciale.
+
+Un autre aspect est également très important pour les systèmes avec clips et cales : **le fabricant doit-il offrir la possibilité d'acheter chacun de ces éléments** plus tard, séparément ? C'est crucial, surtout pour les professionnels qui utilisent souvent les mêmes cales.
+
+Le prix d'un ensemble est, bien sûr, également très important. Calculez le nombre d'éléments que vous pouvez acheter pour un prix donné et vérifiez si le fabricant propose des kits avec des équipements supplémentaires comme des pinces pour presser les cales sur les carreaux. C'est un bon moyen de repérer les offres intéressantes qui valent la peine d'être investies.
