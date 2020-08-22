@@ -4,6 +4,16 @@ seo_title: Qu'est-ce qu'un système d'irrigation goutte à goutte et où l'insta
 seo_description: "Comment prendre soin de votre jardin? \U0001F333 L'irrigation au
   goutte-à-goutte est une nouvelle méthode d'arrosage. \U0001F449 Vérifiez comment
   l'installer."
+main_keywords:
+  - l'irrigation au goutte à goutte
+  - système d'irrigation goutte à goutte
+  - système d'arrosage au goutte-à-goutte 
+  - Système d'arrosage goutte à goutte pour les serres
+  - système de micro-irrigation
+  - les systèmes d'irrigation des jardins
+  - l'irrigation facile des jardins
+  - goutte à goutte pour les plantes
+  - système d'arrosage des pots
 date: 2020-07-26T22:00:00.000+00:00
 update_date: 2020-07-26T22:00:00.000+00:00
 title: Comment fonctionne un système d'irrigation au goutte-à-goutte? Où peut-il être

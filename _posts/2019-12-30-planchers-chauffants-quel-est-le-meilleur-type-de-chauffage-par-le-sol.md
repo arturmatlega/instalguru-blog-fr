@@ -4,6 +4,15 @@ seo_title: Planchers chauffants - quel est le meilleur type de chauffage par le 
   ?
 seo_description: Le chauffage par le sol pourrait être un système très avantageux.
   Il n'est pas surprenant que les planchers chauffants soient de plus en plus populaires.
+main_keywords:
+  - planchers chauffants
+  - dans le chauffage par le sol
+  - chauffage au sol
+  - chauffage par le sol
+  - chauffage électrique au sol
+  - plancher chauffant
+  - les systèmes de chauffage par le sol radiant
+  - les systèmes de chauffage au sol
 date: 2019-12-30T11:00:00.000+00:00
 update_date: 2019-12-30T11:00:00.000+00:00
 title: Planchers chauffants - quel est le meilleur type de chauffage par le sol ?

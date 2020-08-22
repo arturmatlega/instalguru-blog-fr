@@ -5,6 +5,12 @@ seo_title: Accessoires de salle de bains. Comment installer des meubles de salle
 seo_description: 'Le bain, la douche, le lavabo et les toilettes sont les éléments
   les plus importants de toute salle de bains. Comment installer correctement les
   accessoires ? '
+main_keywords:
+  - accessoires de salle de bains
+  - sanitaire
+  - meubles de salle de bains
+  - les installations sanitaires
+  - sanitaires
 date: 2020-01-21T11:00:00.000+00:00
 update_date: 2020-01-21T11:00:00.000+00:00
 title: Installation d'accessoires de salle de bains

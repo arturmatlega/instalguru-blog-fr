@@ -4,6 +4,9 @@ seo_title: Couverture de tuyaux, boxe de tuyaux ? Comment dissimuler des tuyaux 
   ?
 seo_description: Si vos tuyaux ont été laissés exposés, vous pouvez les dissimuler.
   Vous vous demandez quelle est la meilleure couverture pour vos tuyaux ?
+main_keywords:
+  - couvercle de tuyau
+  - la boxe des tuyaux
 date: 2020-02-10T11:00:00.000+00:00
 update_date: 2020-02-10T11:00:00.000+00:00
 title: Couverture de tuyau - comment cacher les tuyaux exposés ?

@@ -4,6 +4,13 @@ seo_title: Comment éliminer les odeurs de l'évier de la salle de bains ou de l
   ?
 seo_description: Si vous vous demandez quelle est l'odeur qui se dégage de votre évier
   de cuisine. Heureusement, il existe des méthodes pour éliminer l'odeur.
+main_keywords:
+  - évier de cuisine
+  - lavabo de la salle de bains
+  - évier de service
+  - odeur
+  - l'odeur
+  - lavabo
 date: 2020-01-03T11:00:00.000+00:00
 update_date: 2020-01-03T11:00:00.000+00:00
 title: Comment se débarrasser d'une mauvaise odeur dans votre évier ?

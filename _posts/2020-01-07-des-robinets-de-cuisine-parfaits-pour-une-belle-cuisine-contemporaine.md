@@ -3,6 +3,15 @@ layout: post
 seo_title: Des robinets de cuisine parfaits pour une belle cuisine contemporaine
 seo_description: Vous prévoyez de rénover votre cuisine ? Découvrez les produits les
   plus populaires et trouvez le meilleur robinet pour la cuisine contemporaine.
+main_keywords:
+  - robinets de cuisine
+  - robinet de cuisine
+  - évier de cuisine
+  - idées de cuisine
+  - robinet d'évier
+  - accessoires de cuisine
+  - robinet de l'évier de la cuisine
+  - les luminaires de cuisine
 date: 2020-01-07T11:00:00.000+00:00
 update_date: 2020-01-07T11:00:00.000+00:00
 title: Des robinets de cuisine parfaits pour une belle cuisine contemporaine

@@ -3,6 +3,16 @@ layout: post
 seo_title: Ventilation - quels sont les types de systèmes de ventilation ?
 seo_description: La ventilation est l'un des éléments les plus importants de chaque
   appartement et bureau. Comment construire un bon système de ventilation ?
+main_keywords:
+  - ventilation
+  - un nouveau départ
+  - ventiler
+  - ventilé
+  - système de ventilation
+  - ventilateurs
+  - qu'est-ce que la ventilation
+  - la ventilation naturelle
+  - ventilateur à domicile
 date: 2019-12-23T11:00:00.000+00:00
 update_date: 2019-12-23T11:00:00.000+00:00
 title: Qu'est-ce que la ventilation ? Types de systèmes de ventilation

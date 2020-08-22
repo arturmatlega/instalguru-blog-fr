@@ -5,6 +5,10 @@ seo_title: Installation d'une conduite de gaz. Quel est le meilleur tuyau - en c
 seo_description: "Vous envisagez d'installer des installations de gaz à votre domicile?
   ✔️ Quel type de tuyau est-il préférable d'utiliser dans votre tuyauterie - cuivre
   \U0001F19Aacier?"
+main_keywords:
+  - tuyauterie
+  - l'installation des conduites de gaz
+  - matériaux de tuyauterie
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
 title: Quel est le meilleur tuyau de gaz - le cuivre ou l'acier ?

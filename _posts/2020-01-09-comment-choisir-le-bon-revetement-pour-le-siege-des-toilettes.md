@@ -3,6 +3,15 @@ layout: post
 seo_title: Choix du revêtement du siège des toilettes. Les points les plus importants
 seo_description: Choisir le bon siège de toilettes n'est peut-être pas aussi simple
   qu'il y paraît. Il existe plusieurs paramètres auxquels vous devez prêter attention.
+main_keywords:
+  - siège de toilette
+  - siège de toilettes à bidet
+  - rehausseur de siège de toilettes
+  - siège de toilettes surélevé
+  - les housses de sièges de toilettes
+  - la taille des sièges de toilettes
+  - meilleur siège de toilettes
+  - fermeture lente du siège des toilettes
 date: 2020-01-09T11:00:00.000+00:00
 update_date: 2020-01-09T11:00:00.000+00:00
 title: Comment choisir le bon revêtement pour le siège des toilettes ?

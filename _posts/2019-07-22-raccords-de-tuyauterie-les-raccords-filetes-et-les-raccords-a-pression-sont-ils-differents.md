@@ -4,6 +4,13 @@ seo_title: 'Raccords de tuyauterie: les raccords filetés et les raccords à pre
   sont-ils différents ?'
 seo_description: "Vous prévoyez de rénover votre maison ? \U0001F3E0 \U0001F449 Apprenez
   la différence entre les raccords filetés et les raccords à pression"
+main_keywords:
+  - raccords pex
+  - raccords de tuyauterie
+  - raccords de tuyauterie en pvc
+  - raccords hydrauliques
+  - raccords en cuivre
+  - raccords de tuyauterie pex
 date: 2019-07-22T22:00:00.000+00:00
 update_date: 2019-07-22T22:00:00.000+00:00
 title: 'Raccords de tuyauterie : les raccords filetés et les raccords à pression sont-ils
