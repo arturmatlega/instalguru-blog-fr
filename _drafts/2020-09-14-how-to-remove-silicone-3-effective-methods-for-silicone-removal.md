@@ -6,36 +6,39 @@ seo_description: "Vous voulez enlever joint silicone ? \U0001F468‍\U0001F527 O
   vous voulez enlever le silicone des vêtements ? ➡️ Choisissez les meilleures méthodes."
 date: 2020-09-13 22:00:00 +0000
 update_date: 2020-09-13 22:00:00 +0000
-title: How to Remove Silicone? 3 Effective Methods for Silicone Removal
-small-intro: Have you just installed a shower cabin and now there are silicone stains
-  on the tiles? Or perhaps you were securing a mirror or windows and some silicone
-  remains on the glass?
-intro: Have you just installed a shower cabin and now there are silicone stains on
-  the tiles? Or perhaps you were securing a mirror or windows and some silicone remains
-  on the glass? Such "decorations" are not very aesthetically pleasing. Sometimes,
-  silicone sealant also needs to be removed for a fresh layer. After a few years the
-  material becomes loose, some cavities, dirt and mould appear. It's a sign that the
-  time for removal has come. How to remove silicone? We have prepared 3 most effective
-  methods which will work in each of the mentioned situations.
+title: Comment Enlever Joint Silicone ? 3 Méthodes Efficaces
+small-intro: Vous venez d'installer une cabine de douche et maintenant il y a des
+  taches de silicone sur les carreaux ? Ou peut-être avez-vous fixé un miroir ou des
+  fenêtres et qu'il reste du silicone sur le verre ?
+intro: Vous venez d'installer une cabine de douche et maintenant il y a des taches
+  de silicone sur les carreaux ? Ou peut-être avez-vous fixé un miroir ou des fenêtres
+  et qu'il reste du silicone sur le verre ? De telles "décorations" ne sont pas très
+  esthétiques. Parfois, il faut aussi enlever le silicone pour en faire une nouvelle
+  couche. Au bout de quelques années, le matériau se détache, des cavités, de la saleté
+  et de la moisissure apparaissent. C'est le signe que le moment est venu de l'enlever.
+  Comment enlever du silicone ? Nous avons préparé 3 méthodes les plus efficaces qui
+  fonctionneront dans chacune des situations mentionnées.
 photo: "/uploads/silikon.jpg"
 photo_desc: Silicone removal tool
 faq:
-- question: How to remove silicone from bath?
-  answer: There are several methods for removing silicone sealant from a tiled bath.
-    Using a chemical silicone remover is the easiest one, however it might be too
-    aggressive because of the harsh solvents it contains. Instead, you might try to
-    remove the silicone mechanically, using a knife or a razor.
-- question: How to remove sealant from tiles?
-  answer: Removing silicone sealant from tiles is not difficult - just choose one
-    of the methods. Use a chemical silicone remover, oil or hot air. Be careful when
-    using a store-bought sealant remover - a strong chemical could discolor the surface.
-    Never use a knife or other sharp tool.
-- question: How to remove sealant from shower?
-  answer: Removing silicone sealant from shower is easy - all you need is a small
-    knife. Cut through the seal to loosen it. You can use either a special silicone
-    remover which will soften the sealant, or try to remove it mechanically. Do not
-    use chemicals not labeled as sealant remover - there's a risk of reaction with
-    the fresh silicone.
+- question: Comment enlever le silicone du bain ?
+  answer: Il existe plusieurs méthodes pour retirer le silicone d'un bain carrelé.
+    La plus simple consiste à utiliser un dissolvant chimique pour silicone, mais
+    il peut être trop agressif en raison des solvants agressifs qu'il contient. Vous
+    pouvez essayer d'enlever du silicone mécaniquement, à l'aide d'un couteau ou d'un
+    rasoir.
+- question: Comment enlever du silicone des carreaux ?
+  answer: Il n'est pas difficile d'enlever joint silicone des carreaux - il suffit
+    de choisir une des méthodes. Utilisez un décapant chimique pour silicone, de l'huile
+    ou de l'air chaud. Faites attention lorsque vous utilisez un produit d'étanchéité
+    acheté en magasin, car un produit chimique puissant pourrait décolorer la surface.
+    N'utilisez jamais de couteau ou d'autre outil tranchant.
+- question: Comment enlever du silicone de la douche ?
+  answer: Il est facile d'enlever un joint silicone de la douche - il suffit d'un
+    petit couteau. Coupez le joint pour le détacher. Vous pouvez soit utiliser un
+    dissolvant spécial pour silicone qui ramollit le joint, soit essayer de l'enlever
+    mécaniquement. N'utilisez pas de produits chimiques non étiquetés comme dissolvant
+    de silicone - il y a un risque de réaction avec le silicone frais.
 - question: How to remove black mould from silicone sealant?
   answer: A sealant covered with mould should be removed as soon as possible - it
     poses a serious threat to health. Use a silicone remover or other method to get
@@ -62,67 +65,67 @@ hreflangs:
   link: https://instalguru.pl/blog/jak-usunac-silikon-3-skuteczne-sposoby-na-usuwanie-silikonu.html
 
 ---
-## Choosing a silicone remover: the most important issues
+## Enlever joint silicone : les points les plus importants
 
-The method of silicone removal **depends on the type of the surface covered by the sealant.** How to remove silicone from tiles or wood? Choosing the best way to remove silicone is an important issue - you don't want to accidentally destroy the surface.
+La méthode d'élimination de la **silicone dépend du type de surface couverte par le mastic.** Comment enlever le silicone des carreaux ou du bois ? Le choix de la meilleure façon d'enlever le silicone est une question importante - vous ne voulez pas détruire accidentellement la surface.
 
-You need to make sure that the surface is clean, especially if you're removing silicone sealant in a tiled bathroom. Take all the objects standing on the tub or the shower base and wash the **tiles and sealings carefully.** Use either a special cream cleaner or an ordinary detergent such as dish soap. Make sure to remove soap stains - this way removing silicone sealant will be easier and more effective.
+Vous devez vous assurer que la surface est propre, surtout si vous enlevez du silicone dans une salle de bains carrelée. Prenez tous les objets qui se trouvent sur la baignoire ou le receveur de douche et **lavez soigneusement les carreaux et les joints**. Utilisez soit une crème nettoyante spéciale, soit un détergent ordinaire comme du savon à vaisselle. Veillez à bien enlever les taches de savon - de cette façon, l'élimination du mastic silicone sera plus facile et plus efficace.
 
-![Choosing a silicone remover: the most important issues](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Choosing a silicone remover: the most important issues")
+![Enlever joint silicone : les points les plus importants](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Enlever joint silicone : les points les plus importants")
 
-## A chemical silicone remover - is it an effective method?
+## Enlever joint silicone avec des produits chimiques - est-ce une méthode efficace ?
 
-**A chemical silicone remover which can be bought in typical hardware shops**, is one of the most popular methods. Such products contain strong solvents that quickly dissolve silicone sealants and allow for its easy removal.
+**Un dissolvant chimique de silicone, que l'on peut acheter dans les quincailleries typiques**, est l'une des méthodes les plus populaires. Ces produits contiennent des solvants puissants qui dissolvent rapidement les mastics de silicone et permettent de les enlever facilement.
 
-### How to use a chemical silicone remover?
+### Comment utiliser un dissolvant chimique de silicone ?
 
 {:.list.list-positive}
 
-* Protect your hands with **rubber gloves**. It's very important, as a typical chemical sealant remover is caustic.
-* If the surface around the sealant is delicate, secure it. You might use, for instance, a **painter's tape**.
-* Start removing silicone sealant mechanically. You can use either a special silicone removal tool or a small knife. Be careful - do not scratch the surface.
-* **Spread the silicone cleaner onto the remains of the sealant.** Usually, a small brush is included in the silicone remover kit, to make the process easier. Wait for the recommended amount of time.
-* Scoop the softened silicone using a small scraper or the silicone removal tool. Afterwards, wash the surface with water and detergent.
+* Protégez vos mains avec des **gants en caoutchouc**. C'est très important, car un produit d'étanchéité chimique typique est caustique.
+* Si la surface autour du produit d'étanchéité est délicate, sécurisez-la. Vous pouvez utiliser, par exemple, un **ruban adhésif pour peintre**.
+* Commencez à enlever le mastic de silicone mécaniquement. Vous pouvez utiliser soit un outil spécial pour enlever le silicone, soit un petit couteau. Faites attention à ne pas rayer la surface.
+* **Étalez le nettoyant pour silicone sur les restes du mastic**. En général, une petite brosse est incluse dans le kit de nettoyage du silicone, pour faciliter le processus. Attendez le temps recommandé.
+* Ramassez le silicone ramolli à l'aide d'un petit grattoir ou de l'outil d'élimination du silicone. Ensuite, lavez la surface avec de l'eau et du détergent.
 
-A surface prepared like this is ready to put a fresh layer of sealant on. There are many products available on the market, but be careful. **Some surfaces are easy to damage even when using very mild chemicals.**
+Une surface ainsi préparée est prête à recevoir une nouvelle couche de scellant. De nombreux produits sont disponibles sur le marché, mais faites attention. Some surfaces are easily damaged, even with the use of very mild chemicals.
 
 {:.distinction.distinction-question.distinction-negative}
 
-A too aggressive silicone remover might tarnish the surface. In case of such situations, there is nothing much you can do. For this reason, make sure to read the label of each product you are about to use, to make sure that it is suitable for your surface.
+Un dissolvant de silicone trop agressif pourrait ternir la surface. Dans de telles situations, il n'y a pas grand-chose à faire. Pour cette raison, assurez-vous de lire l'étiquette de chaque produit que vous allez utiliser, afin de vous assurer qu'il convient à votre surface.
 
-The **unpleasant smell** is definitely a large disadvantage of using a chemical sealant remover. Products like this typically contain acetone. After removing the silicone sealant with this method, make sure to ventilate the room. In case you or someone living with you are particularly sensitive to such acrid smells, consider removing the silicone sealant with a more eco-friendly method.
+**L'odeur désagréable** est certainement un inconvénient majeur de l'utilisation d'un décapant chimique. Les produits de ce type contiennent généralement de l'acétone. Après avoir enlevé le silicone avec cette méthode, veillez à aérer la pièce. Si vous ou une personne vivant avec vous êtes particulièrement sensible à ces odeurs âcres, envisagez d'enlever le silicone avec une méthode plus respectueuse de l'environnement.
 
-![How to use a chemical silicone remover?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "How to use a chemical silicone remover?")
+![Comment utiliser un dissolvant chimique de silicone ?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "Comment utiliser un dissolvant chimique de silicone ?")
 
-## An eco-friendly silicone remover. How to remove silicone sealant without chemicals?
+## Enlever joint silicone de manière écologique. Comment enlever du silicone sans produits chimiques ?
 
-Are you anxious that a **strong chemical sealant remover** might be too strong? Or perhaps you just want to try a less expensive method? We have a fantastic solution for you. It is possible to remove a silicone sealant in a gentle way - which does not mean it is less effective.
+Vous craignez qu'un produit **chimique puissant pour** enlever le silicone ne soit trop fort ? Ou peut-être voulez-vous simplement essayer une méthode moins coûteuse ? Nous avons une solution fantastique pour vous. Il est possible d'enlever un mastic silicone en douceur - ce qui ne veut pas dire qu'il est moins efficace.
 
-All you need is:
-
-{:.list.list-positive}
-
-* **A small knife or a razor** - you can use a box cutter or a special silicone removal tool.
-* **Any type of grease** - anything will do: baby oil, greasy lotion, vegetable oil.
-
-After cleaning the surface, make a cut on one side of the sealant. Pull the blade along its length - do it slowly, making sure not to damage the surface! Do not cut through the sealant. **You only need to loosen the silicone.** Repeat that for each corner with the sealant. Then just grab an ending and gently pull. The sealant should come off in almost one piece.
-
-### How to remove silicone sealant that broke off and stayed on the surface?
-
-**Spread the grease on any residues of the sealant.** Wait for some time until the silicone absorbs the oil, and then scrape it off with a dry sponge or a piece of cloth. Because this method makes the surface very oily, make sure to degrease it before putting a fresh layer of sealant. To do this, use a detergent.
-
-![How to remove silicone sealant that broke off and stayed on the surface?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "How to remove silicone sealant that broke off and stayed on the surface?")
-
-## How to remove silicone from clothes, wood, hands? Use temperature
-
-Unfortunately, methods like store-bought silicone remover or knife and oil are not always suitable. In case of stained clothes, skin and wood, **they might be harmful**.
-
-So, how to remove silicone in this situation? **Temperature** might be a good help. In case of wood and clothes, silicone should be removed after it solidifies.
+Il vous suffit de le faire :
 
 {:.list.list-positive}
 
-* **How to remove silicone from clothing?** Under no circumstances attempt to wipe off fresh silicone - it will only get absorbed by the fibres, making the stain impossible to remove. Instead, **carefully remove the product using a knife or a spatula**. After the silicone stiffens, put some ice over it - small stains will be easy to crumble up. Do do this, you can use an **ink eraser,** but keep in mind that a few fibers might get scraped off along with the silicone. Lastly, wash the clothing to remove any residues.
-* **Removing silicone from wood** might be a problematic issue. Grease and other chemicals cannot be used in this case, as they might stain the surface and damage the wood. The only method for silicone removal from wood is **putting ice** on it, similar as with clothes. Then try to crumble it up. You can use a knife but be careful not to scratch the surface.
-* Removing silicone from skin is quite easy when it's still wet - just wipe it off with a cloth or a paper towel. It might be more difficult after it stiffens. **How to remove silicone which has hardened on skin?** A hairdryer might be a useful tool in this case. Direct the warm air onto the stain and wait until it softens. Then wipe the silicone off and wash the skin with soap.
+* **Un petit couteau ou un rasoir** - vous pouvez utiliser un cutter ou un outil spécial pour enlever du silicone.
+* **Tout type de graisse - tout est bon** : huile pour bébé, lotion grasse, huile végétale.
 
-**Removing silicone is not as difficult as it might seem.** Just pick the right method to the surface from which you remove silicone. Pay special attention not to damage the surface around the sealant. If you catch yourself wondering how to remove silicone in the future, just use one of the methods presented above.
+Après avoir nettoyé la surface, faites une entaille sur un côté du mastic. Tirez la lame sur sa longueur - faites-le lentement, en veillant à ne pas endommager la surface ! Ne coupez pas à travers le produit d'étanchéité. **Il vous suffit de détacher le silicone.** Répétez l'opération pour chaque coin avec le mastic. Puis saisissez une extrémité et tirez doucement. Le mastic devrait se détacher en un seul morceau.
+
+### Comment enlever joint silicone qui s'est cassé et est resté en surface ?
+
+**Étalez la graisse sur les résidus de mastic.** Attendez un certain temps que le silicone absorbe l'huile, puis grattez avec une éponge sèche ou un morceau de tissu. Comme cette méthode rend la surface très huileuse, veillez à la dégraisser avant d'appliquer une nouvelle couche de mastic. Pour ce faire, utilisez un détergent.
+
+![Comment enlever joint silicone qui s'est cassé et est resté en surface ?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "Comment enlever joint silicone qui s'est cassé et est resté en surface ?")
+
+## Comment enlever le silicone des vêtements, du bois, des mains ? Température d'utilisation
+
+Malheureusement, les méthodes comme le dissolvant de silicone acheté en magasin ou le couteau et l'huile ne conviennent pas toujours. En cas de vêtements, de peau et de bois tachés, **ils peuvent être nocifs.**
+
+Alors, comment enlever du silicone dans cette situation ? **La température** pourrait être une bonne aide. Dans le cas du bois et des vêtements, la silicone doit être enlevée après s'être solidifiée.
+
+{:.list.list-positive}
+
+* **Comment enlever du silicone des vêtements** ? N'essayez en aucun cas d'essuyer du silicone frais - il ne sera absorbé que par les fibres, ce qui rendra la tache impossible à enlever. **Enlevez plutôt** **la tache avec précaution à l'aide d'un couteau ou d'une spatule**. Une fois que le silicone a durci, mettez de la glace dessus - les petites taches s'effritent facilement. Vous pouvez utiliser une **gomme à encre**, mais n'oubliez pas que quelques fibres peuvent être grattées en même temps que le silicone. Enfin, lavez le vêtement pour enlever les résidus.
+* **Enlever du silicone du bois** pourrait être problématique. La graisse et les autres produits chimiques ne peuvent pas être utilisés dans ce cas, car ils pourraient tacher la surface et endommager le bois. La seule méthode pour enlever le silicone du bois consiste à **mettre de la glace sur le bois**, comme pour les vêtements. Ensuite, il faut essayer de l'émietter. Vous pouvez utiliser un couteau, mais faites attention à ne pas rayer la surface.
+* Il est assez facile d'enlever le silicone de la peau lorsqu'elle est encore humide - il suffit de l'essuyer avec un chiffon ou une serviette en papier. Il peut être plus difficile de l'enlever une fois qu'elle s'est raidie. **Comment enlever du silicone qui a durci sur la peau ?** Un sèche-cheveux peut être un outil utile dans ce cas. Dirigez l'air chaud sur la tache et attendez qu'elle se ramollisse. Ensuite, essuyez le silicone et lavez la peau avec du savon.
+
+**Enlever du silicone n'est pas aussi difficile qu'il n'y paraît**. Il suffit de choisir la bonne méthode pour la surface dont vous enlevez le silicone. Faites particulièrement attention à ne pas endommager la surface autour du produit d'étanchéité. Si vous vous surprenez à vous demander comment enlever le silicone à l'avenir, utilisez simplement l'une des méthodes présentées ci-dessus.
