@@ -1,12 +1,12 @@
 ---
 main_keywords: []
 layout: post
-seo_title: Comment Enlever Joint Silicone ? 3 Méthodes Efficaces
-seo_description: "Vous voulez enlever joint silicone ? \U0001F468‍\U0001F527 Ou peut-être
-  vous voulez enlever le silicone des vêtements ? ➡️ Choisissez les meilleures méthodes."
-date: 2020-09-13 22:00:00 +0000
-update_date: 2020-09-13 22:00:00 +0000
-title: Comment Enlever Joint Silicone ? 3 Méthodes Efficaces
+seo_title: Comment Enlever Joint Silicone? 3 Méthodes Efficaces
+seo_description: "Vous voulez enlever joint silicone? \U0001F468‍\U0001F527 Ou peut-être
+  vous voulez enlever le silicone des vêtements? ➡️ Choisissez les meilleures méthodes."
+date: 2020-09-15 22:00:00 +0000
+update_date: 2020-09-15 22:00:00 +0000
+title: Comment Enlever Joint Silicone? 3 Méthodes Efficaces
 small-intro: Vous venez d'installer une cabine de douche et maintenant il y a des
   taches de silicone sur les carreaux ? Ou peut-être avez-vous fixé un miroir ou des
   fenêtres et qu'il reste du silicone sur le verre ?
@@ -21,19 +21,19 @@ intro: Vous venez d'installer une cabine de douche et maintenant il y a des tach
 photo: "/uploads/silikon.jpg"
 photo_desc: Silicone removal tool
 faq:
-- question: Comment enlever le silicone du bain ?
+- question: Comment enlever le silicone du bain?
   answer: Il existe plusieurs méthodes pour retirer le silicone d'un bain carrelé.
     La plus simple consiste à utiliser un dissolvant chimique pour silicone, mais
     il peut être trop agressif en raison des solvants agressifs qu'il contient. Vous
     pouvez essayer d'enlever du silicone mécaniquement, à l'aide d'un couteau ou d'un
     rasoir.
-- question: Comment enlever du silicone des carreaux ?
+- question: Comment enlever du silicone des carreaux?
   answer: Il n'est pas difficile d'enlever joint silicone des carreaux - il suffit
     de choisir une des méthodes. Utilisez un décapant chimique pour silicone, de l'huile
     ou de l'air chaud. Faites attention lorsque vous utilisez un produit d'étanchéité
     acheté en magasin, car un produit chimique puissant pourrait décolorer la surface.
     N'utilisez jamais de couteau ou d'autre outil tranchant.
-- question: Comment enlever du silicone de la douche ?
+- question: Comment enlever du silicone de la douche?
   answer: Il est facile d'enlever un joint silicone de la douche - il suffit d'un
     petit couteau. Coupez le joint pour le détacher. Vous pouvez soit utiliser un
     dissolvant spécial pour silicone qui ramollit le joint, soit essayer de l'enlever
@@ -73,11 +73,11 @@ Vous devez vous assurer que la surface est propre, surtout si vous enlevez du si
 
 ![Enlever joint silicone : les points les plus importants](/uploads/jak-usunac-silikon-3-skuteczne-metody-na-usuwanie-silikonu.jpg "Enlever joint silicone : les points les plus importants")
 
-## Enlever joint silicone avec des produits chimiques - est-ce une méthode efficace ?
+## Enlever joint silicone avec des produits chimiques - est-ce une méthode efficace?
 
 **Un dissolvant chimique de silicone, que l'on peut acheter dans les quincailleries typiques**, est l'une des méthodes les plus populaires. Ces produits contiennent des solvants puissants qui dissolvent rapidement les mastics de silicone et permettent de les enlever facilement.
 
-### Comment utiliser un dissolvant chimique de silicone ?
+### Comment utiliser un dissolvant chimique de silicone?
 
 {:.list.list-positive}
 
@@ -97,7 +97,7 @@ Un dissolvant de silicone trop agressif pourrait ternir la surface. Dans de tell
 
 ![Comment utiliser un dissolvant chimique de silicone ?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu-chemia.jpg "Comment utiliser un dissolvant chimique de silicone ?")
 
-## Enlever joint silicone de manière écologique. Comment enlever du silicone sans produits chimiques ?
+## Enlever joint silicone de manière écologique. Comment enlever du silicone sans produits chimiques?
 
 Vous craignez qu'un produit **chimique puissant pour** enlever le silicone ne soit trop fort ? Ou peut-être voulez-vous simplement essayer une méthode moins coûteuse ? Nous avons une solution fantastique pour vous. Il est possible d'enlever un mastic silicone en douceur - ce qui ne veut pas dire qu'il est moins efficace.
 
@@ -110,13 +110,13 @@ Il vous suffit de le faire :
 
 Après avoir nettoyé la surface, faites une entaille sur un côté du mastic. Tirez la lame sur sa longueur - faites-le lentement, en veillant à ne pas endommager la surface ! Ne coupez pas à travers le produit d'étanchéité. **Il vous suffit de détacher le silicone.** Répétez l'opération pour chaque coin avec le mastic. Puis saisissez une extrémité et tirez doucement. Le mastic devrait se détacher en un seul morceau.
 
-### Comment enlever joint silicone qui s'est cassé et est resté en surface ?
+### Comment enlever joint silicone qui s'est cassé et est resté en surface?
 
 **Étalez la graisse sur les résidus de mastic.** Attendez un certain temps que le silicone absorbe l'huile, puis grattez avec une éponge sèche ou un morceau de tissu. Comme cette méthode rend la surface très huileuse, veillez à la dégraisser avant d'appliquer une nouvelle couche de mastic. Pour ce faire, utilisez un détergent.
 
 ![Comment enlever joint silicone qui s'est cassé et est resté en surface ?](/uploads/jak-usunac-silikon-skuteczne-metody-usuwania-silikonu.jpg "Comment enlever joint silicone qui s'est cassé et est resté en surface ?")
 
-## Comment enlever le silicone des vêtements, du bois, des mains ? Température d'utilisation
+## Comment enlever le silicone des vêtements, du bois, des mains? Température d'utilisation
 
 Malheureusement, les méthodes comme le dissolvant de silicone acheté en magasin ou le couteau et l'huile ne conviennent pas toujours. En cas de vêtements, de peau et de bois tachés, **ils peuvent être nocifs.**
 
