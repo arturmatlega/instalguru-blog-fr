@@ -1,12 +1,12 @@
 ---
 main_keywords: []
 layout: post
-seo_title: Comment Connecter un Interrupteur D'escalier ? Un Schéma Clair
+seo_title: Comment Connecter un Interrupteur D'escalier? Un Schéma Clair
 seo_description: "Vous vous demandez brancher un interrupteur ? \U0001F4A1 Consultez
   le schéma des interrupteurs d'escalier. \U0001F44D Connectez un interrupteur !"
 date: 2020-09-28 22:00:00 +0000
 update_date: 2020-09-28 22:00:00 +0000
-title: Comment Connecter un Interrupteur D'escalier ? Un Schéma Clair
+title: Comment Connecter un Interrupteur D'escalier? Un Schéma Clair
 small-intro: Un interrupteur est un dispositif modeste grâce auquel la vie quotidienne
   dans une maison devient beaucoup plus facile.
 intro: Un interrupteur est un dispositif modeste grâce auquel la vie quotidienne dans
