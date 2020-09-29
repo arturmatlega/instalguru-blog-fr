@@ -23,7 +23,21 @@ author_name: Mateusz Knapik
 author_desc: Spécialiste des ventes et de l'assistance à la clientèle chez Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: cz
+  link: ''
+- lang: es
+  link: ''
+- lang: it
+  link: ''
+- link: ''
+  lang: fr
+- lang: de
+  link: ''
+- lang: en
+  link: ''
+- lang: pl
+  link: ''
 
 ---
 ## Interrupteur d'escalier - quelles sont ses caractéristiques ?
