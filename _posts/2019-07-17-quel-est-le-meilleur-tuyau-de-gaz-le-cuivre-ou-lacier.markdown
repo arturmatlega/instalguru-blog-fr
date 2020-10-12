@@ -10,7 +10,8 @@ main_keywords:
 - matériaux de tuyauterie
 date: 2019-07-17T15:02:04.000+00:00
 update_date: 2019-07-17T15:02:04.000+00:00
-title: Système De Gaz. Quels Tuyaux - En Cuivre Ou En Acier ?
+title: Quels sont les meilleurs tuyaux - tubes en cuivre ou en acier ? Les essentiels
+  de l'installation du gaz
 small-intro: L'installation de conduites de gaz a été un élément essentiel pour presque
   tous les nouveaux bâtiments au cours des dernières années.
 intro: L'installation de conduites de gaz a été un élément essentiel pour presque
