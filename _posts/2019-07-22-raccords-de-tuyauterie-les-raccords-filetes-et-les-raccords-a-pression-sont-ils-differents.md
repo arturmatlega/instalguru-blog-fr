@@ -1,38 +1,30 @@
 ---
 layout: post
-seo_title: 'Raccords de tuyauterie: les raccords filetés et les raccords à pression
-  sont-ils différents ?'
-seo_description: "Vous prévoyez de rénover votre maison ? \U0001F3E0 \U0001F449 Apprenez
-  la différence entre les raccords filetés et les raccords à pression"
+seo_title: Chauffage Central - Les Meilleurs Raccords De Tuyauterie
+seo_description: "Vous construisez une maison ? \U0001F3E0 Comment choisir des raccords
+  de tuyauterie PEX ? \U0001F449 Découvrez les raccords filetés et les raccords à
+  sertir."
 main_keywords:
-  - raccords pex
-  - raccords de tuyauterie
-  - raccords de tuyauterie en pvc
-  - raccords hydrauliques
-  - raccords en cuivre
-  - raccords de tuyauterie pex
+- raccords pex
+- raccords de tuyauterie
+- raccords de tuyauterie en pvc
+- raccords hydrauliques
+- raccords en cuivre
+- raccords de tuyauterie pex
 date: 2019-07-22T22:00:00.000+00:00
 update_date: 2019-07-22T22:00:00.000+00:00
-title: 'Raccords de tuyauterie : les raccords filetés et les raccords à pression sont-ils
-  différents ?'
-small-intro: Les installations d'eau et de chauffage central utilisent différents
-  types de raccords de tuyauterie
-intro: Les installations d'eau et de chauffage central utilisent différents types
-  de raccords de tuyauterie. Deux des éléments les plus populaires sont les raccords
-  filetés et les éléments à pression. Quelle est la différence entre ces éléments
-  et quels sont leurs principaux avantages ? Les raccords de tuyauterie sont parmi
-  les éléments les plus importants de toute installation d'eau. Les raccords en PVC
-  et en PEX sont de plus en plus populaires, étant choisis plus souvent que les raccords
-  en cuivre. Ils peuvent être utilisés aussi bien pour le chauffage (95° C max) que
-  pour les installations d'eau. L'un des plus grands avantages d'une solution de ce
-  type est la possibilité de transférer l'eau potable sans risque de la polluer. Quel
-  que soit le type, les deux produits peuvent être utilisés pour connecter un tuyau
-  PEX avec d'autres éléments dans une installation d'eau. Différents types, tels que
-  les tés et les coudes, sont utiles pour construire des installations plus grandes
-  et plus complexes.
+title: Chauffage central - quels sont les raccords de tuyauterie qui garantissent
+  le meilleur chauffage ?
+small-intro: Chaque système de chauffage central est basé sur divers raccordements
+  de différents éléments.
+intro: Chaque système de chauffage central est basé sur des connexions diverses de
+  différents éléments. Il dépend principalement de leur construction à partir de matériaux
+  diversifiés. Les raccords PEX - filetés et à pression - sont parmi les plus populaires
+  depuis des années. Mais, selon les besoins - le chauffage central d'un bâtiment
+  peut utiliser des tubes en cuivre, en nickel ou en fonte. Découvrez les caractéristiques
+  de chaque type de système de chauffage et vérifiez comment ils sont construits.
 photo: "/uploads/f4dc065de7c0426d8ca399f2c22cf17d.png"
-photo_desc: 'Deux des éléments les plus populaires sont les raccords filetés et les
-  éléments de presse. '
+photo_desc: Two of the most popular PEX elements are threaded and press fittings.
 faq:
 - question: Les raccords PEX - comment les installer ?
   answer: La méthode d'installation des raccords de tuyauterie PEX dépend de leur
@@ -71,47 +63,71 @@ hreflangs:
   link: https://instalguru.cz/blog/potrubni-tvarovky-lisi-se-prislusenstvi-se-zavitem-a-stiskem.html
 
 ---
-## Raccords de tuyauterie - construction et installation
+## Système de chauffage basé sur les systèmes PEX
 
-Qu'il s'agisse de raccords en PVC, en PEX, en cuivre ou de tout autre type, leur construction n'est pas très compliquée. Les éléments ne diffèrent que légèrement. La principale distinction réside dans la méthode d'installation. Vous trouverez ci-dessous une description complète des raccords filetés et des raccords à pression.
+Le système de chauffage central, très populaire au fil des ans, est principalement basé sur des systèmes PEX. En raison du matériau utilisé pour leur production, ainsi que de leurs caractéristiques, les tuyaux tels que PEX-AL-PEX et les raccords PEX peuvent être utilisés aussi bien pour le chauffage central que pour les systèmes d'eau. **La limite dans ce cas est la température, qui peut atteindre au maximum 95°C (203 F).**
 
-### Raccords filetés
+Autre avantage de cette solution, il est possible de transmettre de l'eau potable sans risque de contamination - que vous choisissiez des raccords à sertir ou des moulages. Lorsque vous raccordez des tuyaux PEX à d'autres éléments d'installation d'eau, vous pouvez utiliser différents types de raccords. Il s'agit généralement de coudes et de tés en PEX. En les utilisant, on peut créer des systèmes plus grands et plus complexes, adaptés à la structure d'un bâtiment. Grâce à cela, le plan du système de chauffage est facile à réaliser, et il peut l'être rapidement.
+
+La différence entre les systèmes de chauffage avec des raccords PEX réside dans l'utilisation de différents types de moulures. **Quelles sont les caractéristiques de ces éléments ?**
+
+### Systèmes de chauffage avec raccords filetés
 
 ![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
 
-Un raccord fileté se compose des éléments suivants :
+Chaque système de chauffage utilise des **tuyaux PEX/AL/PEX** comme base. Ils sont toutefois reliés entre eux par divers raccords. Un raccord fileté se compose des éléments suivants :
 
-{:.list.list-positive}
+1. Un écrou fileté.
+2. Une bague de serrage.
+3. Un tube (avec des joints toriques d'étanchéité).
+4. Entretoise diélectrique.
+5. Corps de raccord.
 
-* Un écrou fileté.
-* Une bague de serrage.
-* Un tube (avec des joints toriques d'étanchéité).
-* Entretoise diélectrique.
-* Corps de raccord.
+Les raccords de tuyaux filetés ont un écrou fileté qui doit être dévissé de l'entretoise diélectrique. Ensuite, l'écrou et la bague de serrage sont placés sur le tuyau. Le tube doit être placé à l'intérieur du tuyau et le presser fermement pour éliminer tout espace entre les deux éléments (le tuyau doit être coupé à un angle de 90 degrés). Si le **tube se trouve à l'intérieur** du tuyau, l'écrou doit être vissé à la main aussi fermement que possible, puis fixé avec une clé (un 3/4 de tour). Veillez à ne pas trop serrer l'écrou, car cela pourrait endommager à la fois le raccord et le tuyau.
 
-Les raccords de tuyaux filetés ont un écrou fileté qui doit être dévissé de l'entretoise diélectrique. Ensuite, l'écrou et la bague de serrage sont placés sur le tuyau. Le tube doit être placé à l'intérieur du tuyau et le presser fermement pour éliminer tout espace entre les deux éléments (le tuyau doit être coupé à un angle de 90 degrés). Si le tube est à l'intérieur du tuyau, l'écrou doit être vissé à la main aussi fermement que possible, puis fixé avec une clé. Veillez à ne pas trop serrer l'écrou, car cela pourrait endommager à la fois le raccord et le tuyau.
+{:.distinction.distinction-info.distinction-positive}
 
-### Raccords pour tuyaux de presse
+Veillez à ne pas serrer l'écrou trop fort, car vous pourriez endommager le raccord et le tuyau.
+
+### Un système de chauffage avec des raccords de tuyaux de presse
 
 ![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
-Il y a plusieurs éléments dans les raccords de tuyaux de presse :
+Les raccords de tuyaux à sertir sont également couramment utilisés dans les systèmes de chauffage. Les raccords de tuyauterie à sertir comportent plusieurs éléments :
 
-{:.list.list-positive}
+1. Manchon de serrage.
+2. Tube (avec joints toriques d'étanchéité).
+3. Entretoise diélectrique.
+4. Corps de raccord.
 
-* Manchon de serrage.
-* Tube (avec joints toriques d'étanchéité).
-* Entretoise diélectrique.
-* Corps de raccord.
+L'installation de ce type de raccords de tuyauterie consiste à placer le manchon de serrage directement sur le tuyau (sans le démonter). Des espaces spéciaux situés dans le tube sont utilisés pour s'assurer que le tuyau a été placé suffisamment profondément. Pour fixer le raccord, on utilise un outil de **presse mécanique spécial**, ce qui constitue la principale différence entre les deux types. L'outil est placé sur le tube et mis en marche. Après quelques secondes, vous pouvez entendre un bruit caractéristique - cela signifie que le raccord a été correctement raccordé au tuyau.
 
-L'installation de ce type de raccords de tuyauterie consiste à placer le manchon de serrage directement sur le tuyau (sans le démonter). Des espaces spéciaux situés dans le tube sont utilisés pour s'assurer que le tuyau a été placé suffisamment profondément. Pour fixer le raccord, on utilise un outil de presse mécanique spécial, ce qui constitue la principale différence entre les deux types. L'outil est placé sur le tube et mis en marche. Après quelques secondes, vous pouvez entendre un bruit caractéristique - cela signifie que le raccord a été correctement raccordé au tuyau.
+## Raccords de tuyauterie - principales différences entre les systèmes PEX
 
-## Raccords de tuyauterie - principales différences
+Tout système de chauffage devrait être très durable. Il est important de créer des connexions étanches, résistantes aux différents facteurs. C'est pourquoi les raccords en laiton sont fréquemment utilisés : coudes, tétines et divers connecteurs.
 
-Comme indiqué dans les descriptions ci-dessus, la principale différence entre les deux systèmes réside dans la méthode d'installation. Les raccords filetés sont plus faciles à installer et ne nécessitent aucun outil spécial. Les raccords filetés pour tuyaux sont également moins chers que les autres (bien que la différence de prix soit relativement faible). Un avantage supplémentaire est le fait que le raccord peut être facilement démonté après l'installation.
+### Raccords pour radiateurs
 
-Il y a cependant certaines limites. Il peut arriver qu'après avoir démonté le raccord, la bague de serrage doive être remplacée. Un autre inconvénient est qu'après l'installation, le raccord ne peut pas être déplacé, car il pourrait provoquer des fuites. Cela est particulièrement problématique avec les coudes, car ils doivent être positionnés à un certain angle.
+Les raccords en laiton, en raison de leur durabilité, ainsi que de leur résistance aux températures élevées, sont utilisés pour les radiateurs. Dans ce cas particulier, on utilise généralement des raccords de tuyaux. En plus d'être durables, ils sont faciles à entretenir et très fonctionnels.
 
-Les raccords de tuyaux à pression sont un peu plus chers. L'utilisation d'un outil de pressage mécanique est une méthode d'installation plus sûre (il est facile de fixer un raccord fileté trop serré). Les raccords de tuyaux pressés (en particulier les coudes et les tés) peuvent être déplacés après l'installation. Cela signifie qu'ils peuvent être facilement ajustés à l'élément suivant sans risque de dommage. En outre, ils peuvent être placés dans du béton, car ils sont plus durables et plus stables.
+{:.distinction.distinction-quotation.distinction-negative}
 
-Les deux systèmes ont leurs forces et leurs faiblesses. La décision entre eux dépend des besoins de chacun.
+_Grâce à ces éléments, vous pouvez rapidement retirer le radiateur en cas de dysfonctionnement du système de chauffage._
+
+### Chauffage - systèmes d'eau et de gaz
+
+Les raccords en laiton permettent également de construire des systèmes de gaz et d'eau. Ils utilisent également différents types de raccords. L'utilisation de réducteurs en laiton a et de réducteurs à mamelon est très avantageuse. Grâce à ces éléments, les différents diamètres de raccords ne posent plus de problème. La construction d'un bâtiment peut également nécessiter certaines modifications qui doivent être appliquées à la disposition du système de chauffage. Changer la direction des tuyaux n'est pas un problème. Il suffit d'utiliser un té en laiton ou le coude susmentionné.
+
+## Raccords nickelés dans le chauffage central
+
+Les éléments nickelés, recouverts d'une couche protectrice, sont utilisés pour les systèmes dans lesquels l'esthétique est aussi importante que la durabilité. Il concerne tous les endroits exposés, principalement dans les toilettes et les salles de bains, mais pas seulement.
+
+Grâce à ces éléments, on peut être sûr que le système de chauffage central ou les canalisations seront durables et résistants à divers facteurs. Quels sont les types de robinetterie les plus populaires ? Ce sont les raccords nickelés, les réducteurs nickelés et les coudes nickelés.
+
+## Chauffage central basé sur des systèmes en fonte
+
+Outre toutes les possibilités susmentionnées, un système de chauffage central peut également être constitué d'éléments en fonte galvanisée. Bien que de nombreuses personnes renoncent à cette solution - principalement pour des raisons esthétiques - on ne peut cependant pas oublier les caractéristiques les plus importantes. Les raccords en fonte sont l'un des éléments les plus durables disponibles sur le marché. Selon les experts, ils peuvent être utilisés à des endroits présentant un risque élevé de variations de pression. C'est pourquoi les raccords en fonte sont utilisés non seulement pour le chauffage central, mais aussi pour les systèmes d'eau, de gaz, de lutte contre l'incendie et de ventilation.
+
+Comme dans tous les cas précédents, les tés en fonte, les mamelons réducteurs galvanisés et les raccords de tuyaux en fonte sont des produits populaires, parmi de nombreux autres éléments, qui peuvent être adaptés individuellement au système.
+
+Indépendamment des pièces d'équipement utilisées pour les systèmes de chauffage, la construction correcte est la plus importante. On peut le faire soi-même ou demander à un professionnel. Tout dépend des caractéristiques spécifiques du système, ainsi que du support utilisé pour le chauffage.
