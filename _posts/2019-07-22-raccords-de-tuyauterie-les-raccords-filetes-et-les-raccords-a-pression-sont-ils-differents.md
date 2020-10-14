@@ -12,7 +12,7 @@ main_keywords:
 - raccords en cuivre
 - raccords de tuyauterie pex
 date: 2019-07-22T22:00:00.000+00:00
-update_date: 2019-07-22T22:00:00.000+00:00
+update_date: 2020-10-12 22:00:00 +0000
 title: Chauffage central - quels sont les raccords de tuyauterie qui garantissent
   le meilleur chauffage ?
 small-intro: Chaque système de chauffage central est basé sur divers raccordements
