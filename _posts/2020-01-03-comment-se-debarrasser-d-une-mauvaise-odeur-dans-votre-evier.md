@@ -1,16 +1,16 @@
 ---
 layout: post
-seo_title: Comment éliminer les odeurs de l'évier de la salle de bains ou de la cuisine
-  ?
-seo_description: Si vous vous demandez quelle est l'odeur qui se dégage de votre évier
-  de cuisine. Heureusement, il existe des méthodes pour éliminer l'odeur.
+seo_title: Comment Éliminer Les Odeurs De L'évier Ou Du Lavabo ?
+seo_description: "Un évier bouché provoque-t-il une odeur désagréable dans la maison
+  ? \U0001F937\U0001F3FB Vérifiez comment déboucher les tuyaux. \U0001F449\U0001F3FB
+  C'est très simple."
 main_keywords:
-  - évier de cuisine
-  - lavabo de la salle de bains
-  - évier de service
-  - odeur
-  - l'odeur
-  - lavabo
+- évier de cuisine
+- lavabo de la salle de bains
+- évier de service
+- odeur
+- l'odeur
+- lavabo
 date: 2020-01-03T11:00:00.000+00:00
 update_date: 2020-01-03T11:00:00.000+00:00
 title: Comment se débarrasser d'une mauvaise odeur dans votre évier ?
@@ -18,9 +18,10 @@ small-intro: Apprenez comment éliminer l'odeur désagréable de votre évier et
   la prévenir à l'avenir.
 intro: Une belle salle de bains, de nouveaux carreaux brillants et des équipements
   modernes. Elle pourrait être parfaite - si ce n'est pour la mauvaise odeur qui s'échappe
-  du lavabo. Cela ressemble-t-il exactement à votre problème ? Ne vous inquiétez pas
-  - il existe des remèdes éprouvés pour un problème comme celui-ci. Apprenez comment
-  éliminer la mauvaise odeur de votre évier et comment la prévenir à l'avenir.
+  du lavabo. C'est un problème courant qui peut se manifester aussi bien dans une
+  maison que dans un appartement. Est-ce aussi votre problème ? Si c'est le cas, vous
+  devriez vérifier comment vous débarrasser d'un écoulement d'évier malodorant. Ce
+  n'est pas aussi difficile qu'il n'y paraît.
 photo: "/uploads/75b1d582b30f41928dd9987fdd456319.png"
 photo_desc: Les causes d'un évier malodorant sont multiples.
 faq:
@@ -52,32 +53,60 @@ hreflangs:
 ---
 ## Pourquoi votre évier sent-il ?
 
-Les causes d'un évier malodorant sont multiples. L'une des raisons les plus courantes est une mauvaise installation ou un mauvais raccordement à l'évacuation. Ce ne sont là que deux possibilités. D'autres causes impliquent une exploitation trop extrême du système ou, au contraire, son utilisation sporadique. Un drain bouché peut être la cause de l'odeur de l'évier. Une autre est une ventilation défectueuse. En fonction de la gravité du problème, une solution adéquate doit être mise en œuvre. Les remèdes maison résolvent généralement le problème, mais parfois ils ne suffisent pas.
+**Les causes d'un évier malodorant sont multiples.** Une mauvaise installation, un mauvais raccordement à l'égout ou un équipement de mauvaise qualité sont des facteurs courants. Dans certains cas, il est possible d'éliminer la mauvaise odeur de l'évier en achetant un bon drain avec une crépine métallique.
 
-## Réparer un drain bouché
+D'autres causes d'une mauvaise odeur d'évier sont une exploitation trop extrême du système ou, au contraire, son utilisation sporadique.
 
-Un lavabo est le point central de chaque salle de bains. Il est utilisé plusieurs fois dans la journée. Si l'évier n'est pas nettoyé régulièrement, il risque de boucher le drain. Une situation similaire peut se produire si des résidus, par exemple de rasage, se retrouvent dans l'écoulement. Une telle situation nécessite-t-elle d'appeler un spécialiste ou peut-être pouvez-vous la résoudre vous-même ? Contrairement à ce que vous pourriez penser, ce n'est pas une tâche difficile. Il existe de nombreux remèdes maison pour déboucher l'écoulement.
+Le fait de ne pas nettoyer du tout l'évier de la cuisine ou de la salle de bain est également une cause fréquente. Cela conduit à un seul problème : une évacuation d'évier bouchée.
 
-Important L'une des méthodes les plus simples consiste à utiliser du bicarbonate de soude, du vinaigre et de l'eau bouillante. Il suffit de verser un verre de bicarbonate de soude dans l'égout et d'y verser de l'eau bouillante. Après 15 minutes, ajoutez un autre verre de bicarbonate de soude et un verre de vinaigre. Le mélange commence à pétiller. Versez de l'eau bouillante après 15 minutes supplémentaires.
+{:.distinction.distinction-info.distinction-positive}
 
-{:.distinction.distinction-info.distinction-negative}
+Une autre raison pour laquelle un évier sent mauvais est un mauvais système de ventilation - mais c'est un tout autre problème. En fonction de l'espace concerné, l'odeur désagréable doit faire l'objet de solutions adéquates.
 
-Si les remèdes maison ne fonctionnent pas, essayez d'utiliser des produits chimiques disponibles que vous pouvez acheter dans tous les supermarchés. Ils devraient éliminer plus efficacement l'odeur désagréable de votre évier. Les deux méthodes ci-dessus peuvent être utilisées de temps en temps à titre préventif, par exemple une fois par mois. Cela réduira certainement le risque de boucher votre évier et empêchera l'apparition de l'odeur.
+## Une cuisine ou une salle de bain bouchée - quel est le problème ?
+
+Un évier est un point central dans chaque salle de bains. Il est utilisé plusieurs fois dans la journée, **surtout si un grand nombre de personnes vivent dans la maison.** Si l'évier n'est pas nettoyé régulièrement, il risque de boucher l'écoulement. C'est encore plus important lorsque l'on se rase au-dessus de l'évier. Dans ce cas, les poils peuvent s'écouler dans l'égout et boucher l'évier.
+
+**La situation est assez similaire pour l'évier de cuisine**. Les résidus alimentaires sont un effet secondaire de la préparation des repas et du lavage de la vaisselle. Sans un nettoyage régulier, il est difficile d'éviter un évier bouché et l'odeur nauséabonde dans la maison. Tout le monde voudrait probablement éviter cela.
 
 ## Comment se débarrasser de l'odeur de votre évier ?
 
-Le sel est une méthode assez efficace pour éliminer une mauvaise odeur dans une salle de bain ou un évier de cuisine. Il suffit de mettre 3 à 4 cuillères à soupe de sel dans l'égout et de le laisser pendant une demi-heure. Rincez ensuite abondamment à l'eau froide.
+Vous pouvez facilement éliminer la mauvaise odeur de votre évier avec du sel. Il suffit de mettre 3 à 4 cuillères à soupe de sel dans l'égout et de le laisser pendant une demi-heure. Rincez ensuite abondamment - utilisez de l'eau froide.
+
+C'est la méthode la plus populaire, qui fonctionne s'il y a des **résidus à l'intérieur qui provoquent la mauvaise odeur**. Si vous êtes sûr que le système de plomberie de votre maison a été installé correctement, la méthode la plus simple pour éviter un évier malodorant est une bonne hygiène et le sel mentionné.
 
 {:.distinction.distinction-quotation.distinction-positive}
 
-Si vous êtes absolument sûr que le système de plomberie de votre maison est correctement installé, la seule méthode pour éviter les odeurs est une bonne hygiène. Vous pouvez utiliser les produits de nettoyage disponibles.
+Il peut arriver que la question ait été ignorée pendant si longtemps que les tuyaux ont été bouchés. Dans ce cas, il faut débloquer les tuyaux.
 
 ![](/uploads/22026fe9c155463eaf62d4cf9553d0e6.png)
 
+### Vérifiez les remèdes maison pour les tuyaux bouchés - la meilleure façon de déboucher votre évier
+
+Si l'évier bouché signifie que les tuyaux sont obstrués, vous pouvez utiliser une méthode très simple avec du bicarbonate de soude, du vinaigre et de l'eau bouillante. Comment déboucher l'évier avec cette méthode ?
+
+{:.distinction.distinction-info.distinction-positive}
+
+C'est très facile. Il suffit de verser un verre de bicarbonate de soude dans l'égout et d'y verser de l'eau bouillante. Après 15 minutes, ajoutez un autre verre de bicarbonate de soude et un verre de vinaigre. Le mélange commence à pétiller. Versez de l'eau bouillante après 15 minutes supplémentaires. L'évier bouché n'a aucune chance - le problème est résolu. Le bicarbonate de soude et le vinaigre pour les tuyaux est une méthode connue et fréquemment utilisée depuis de nombreuses années.
+
+Que pouvez-vous faire d'autre pour déboucher l'évier ? Vous pouvez utiliser l'objet de base qui devrait se trouver dans chaque maison - un piston. Il peut être utilisé aussi bien pour les éviers de cuisine que pour ceux de la salle de bain. **Comment déboucher un évier ?** Il suffit d'appuyer sur la tasse jusqu'à l'écoulement. Lorsque le piston forme un joint autour du drain, il suffit de déplacer la poignée. L'aspiration déplacera le bouchon.
+
+### Des produits chimiques pour un évier bouché
+
+Si les remèdes maison ne fonctionnent pas et que votre évier reste bouché, essayez d'utiliser des produits chimiques que vous pouvez acheter dans tous les supermarchés. Vous pourrez ainsi éliminer l'obstruction et tuer les bactéries et l'odeur désagréable et fétide de votre évier.
+
+### Mesures préventives - un évier bouché ne sera pas un problème pour vous
+
+Les remèdes maison et les produits chimiques achetés en magasin peuvent être utilisés non seulement en cas de problème. Il est également recommandé de les utiliser à titre préventif, de temps en temps, par exemple une fois par mois. Vous pouvez ainsi réduire considérablement le risque d'un évier malodorant ou bouché.
+
+**Pour les éviers de cuisine** - comme autre mesure préventive, vous pouvez investir dans un filtre spécial pour le mettre à l'égout. Elle protège la tuyauterie en arrêtant les éléments plus importants qui pourraient provoquer un évier bouché et vous obliger à déboucher le drain.
+
 ## Et si rien ne fonctionne ?
 
-Il est possible que, malgré l'utilisation de toutes les méthodes présentées, le problème des puits malodorants persiste encore. Que faire dans un tel cas ? Comment éliminer une odeur d'évier ?
+Il est possible que malgré l'utilisation de toutes les méthodes présentées, le problème d'un évier malodorant persiste, même si vous avez réussi à déboucher l'évier. **Que faire alors ? Comment éliminer une odeur de l'évier ?** La cause la plus probable est un système de ventilation de plomberie défectueux. L'eau est probablement aspirée par les drains, ce qui provoque l'odeur dans l'évier.
 
-La cause la plus probable est un système de ventilation de plomberie défectueux. L'eau est probablement aspirée par les drains, ce qui provoque l'odeur dans l'évier. La seule solution pour cela est d'appeler un spécialiste et éventuellement de reconstruire le système. Cela permettra d'éliminer définitivement l'odeur de l'évier.
+{:.distinction.distinction-info.distinction-positive}
 
-Un système de ventilation de la plomberie bien conçu contribue au confort d'utilisation des appareils sanitaires. La modification de l'installation au stade de la construction ne pose aucun problème. C'est beaucoup plus difficile lorsque le bâtiment est déjà terminé. Cela peut générer des coûts supplémentaires. Bien sûr, un bâtiment dont la ventilation est défectueuse peut être habité, mais l'odeur désagréable peut être gênante.
+La seule solution pour cela est d'appeler un spécialiste, et éventuellement de reconstruire le système. Cela permettra d'éliminer définitivement l'odeur de l'évier.
+
+**Un système de ventilation de la plomberie bien conçu contribue au confort d'utilisation des appareils sanitaires**. La modification de l'installation au stade de la construction ne pose aucun problème. C'est beaucoup plus difficile lorsque le bâtiment est déjà terminé. Cela peut également générer des coûts supplémentaires. Bien sûr, un bâtiment dont la ventilation est défectueuse peut être habité, mais l'odeur désagréable peut être gênante.
