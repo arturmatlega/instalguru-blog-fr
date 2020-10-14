@@ -9,7 +9,7 @@ main_keywords:
 - l'installation des conduites de gaz
 - matériaux de tuyauterie
 date: 2019-07-17T15:02:04.000+00:00
-update_date: 2019-07-17T15:02:04.000+00:00
+update_date: 2020-10-12 15:02:04 +0000
 title: Quels sont les meilleurs tuyaux - tubes en cuivre ou en acier ? Les essentiels
   de l'installation du gaz
 small-intro: L'installation de conduites de gaz a été un élément essentiel pour presque
