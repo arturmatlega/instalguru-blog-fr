@@ -12,7 +12,7 @@ main_keywords:
 - l'odeur
 - lavabo
 date: 2020-01-03T11:00:00.000+00:00
-update_date: 2020-01-03T11:00:00.000+00:00
+update_date: 2020-10-14 10:00:00 +0000
 title: Comment se débarrasser d'une mauvaise odeur dans votre évier ?
 small-intro: Apprenez comment éliminer l'odeur désagréable de votre évier et comment
   la prévenir à l'avenir.
