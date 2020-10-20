@@ -22,7 +22,12 @@ intro: Des câbles qui sortent du plafond ? Des tuyaux qui ne s'adaptent pas du 
 photo: "/uploads/61e19b6b343a4ba0880faea4a0184e68.jpg"
 photo_desc: Comment dissimuler les tuyaux exposés pour rendre votre intérieur parfait
   ? Il y a deux bonnes solutions pour cela.
-faq: []
+faq:
+- question: Un couvercle de tuyau est-il toujours nécessaire ?
+  answer: Couvrir les tuyaux d'une pièce affecte l'esthétique de l'intérieur. Si vous
+    avez décidé d'utiliser le style loft, vous n'êtes pas obligé de le faire. Il n'est
+    pas nécessaire de couvrir les tuyaux dans ce cas, car les tuyaux exposés ajoutent
+    un caractère au design.
 author_name: Magdalena Data-Urban
 author_desc: Responsable du contenu chez Instalguru
 author_photo: "/uploads/ccd0bafcbc864b52afb6e7826ae63e4b.png"
