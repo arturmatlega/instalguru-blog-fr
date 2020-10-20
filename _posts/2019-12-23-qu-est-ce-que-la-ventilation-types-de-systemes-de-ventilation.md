@@ -28,7 +28,12 @@ intro: Le système de ventilation de la maison peut être caché, mais il joue u
 photo: "/uploads/wall-768765_960_720.webp"
 photo_desc: Le système approprié permet la circulation de l'air dans chaque pièce
   d'un bâtiment.
-faq: []
+faq:
+- question: Quel est le meilleur système de vétilation à domicile ?
+  answer: La ventilation naturelle est la meilleure solution pour chaque bâtiment.
+    Elle est parfois obligatoire, car elle est régie par la loi. N'oubliez pas que
+    dans tous les cas, il faut adapter le système de ventilation aux différents aspects
+    d'un bâtiment.
 author_name: Mateusz Knapik
 author_desc: Spécialiste des ventes et de l'assistance à la clientèle chez Instalguru
 author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
