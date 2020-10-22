@@ -70,6 +70,9 @@ fields:
   - type: text
     name: link
     label: link
+- name: noindex
+  type: boolean
+  label: Blokować indexowanie?
 pages:
 - _posts/2019-07-17-quel-est-le-meilleur-tuyau-de-gaz-le-cuivre-ou-lacier.markdown
 - _posts/2019-07-22-raccords-de-tuyauterie-les-raccords-filetes-et-les-raccords-a-pression-sont-ils-differents.md
