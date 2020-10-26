@@ -18,7 +18,8 @@ intro: Le carrelage du sol et des murs est l'une des méthodes les plus populair
   rapide et facile, et vous pouvez la faire vous-même. Il vous suffit d'apprendre
   les informations de base sur la pose du carrelage.
 photo: "/uploads/plytki1.jpg"
-photo_desc: ''
+photo_desc: Bien que la pose du carrelage ne soit pas très compliquée, il est nécessaire
+  de s'y préparer avant de commencer les travaux.
 faq:
 - question: Pose de carreaux de sol - comment commencer ?
   answer: Pour carreler un sol, il faut commencer par préparer tous les matériaux
