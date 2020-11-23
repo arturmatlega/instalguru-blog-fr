@@ -34,6 +34,7 @@ author_photo: "/uploads/53a59f0657ac4ebda5d05d000443cd0d.jpg"
 toc: false
 hreflangs: []
 noindex: false
+segmenting_tags: []
 
 ---
 ## Pose de carreaux - comment se préparer à cette tâche ?
