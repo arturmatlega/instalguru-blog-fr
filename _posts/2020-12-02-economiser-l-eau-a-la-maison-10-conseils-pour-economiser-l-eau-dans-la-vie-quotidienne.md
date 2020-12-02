@@ -34,7 +34,23 @@ author_name: Maksymilian Ignacyk
 author_desc: Spécialiste des ventes et du marketing chez Instalguru
 author_photo: "/uploads/maks.jpg"
 toc: true
-hreflangs: []
+hreflangs:
+- lang: pl
+  link: https://instalguru.pl/blog/oszczedzanie-wody-w-domu-10-wskazowek-jak-oszczedzac-wode.html
+- lang: en
+  link: https://instalguru.co.uk/blog/saving-water-at-home-10-tips-on-how-to-save-water-in-daily-life.html
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
+- lang: ''
+  link: ''
 noindex: false
 
 ---
