@@ -4,7 +4,7 @@ url: "https://instalguru.fr" # the base hostname & protocol for your site, e.g. 
 lang: "fr"
 photo: "/assets/img/default.jpg"
 scvarificationnumber: "7XOqXKAknjHenJTFzOqRbt6d_VUbfWI7XnhzyAbJKnY" # numer identyfikacjyny google search console
-analyticsvarificationnumber: "UA-145248341-8" # numer identyfikacjyny google analyticks
+analyticsvarificationnumber: "G-08GG7RFE50" # numer identyfikacjyny google analyticks
 gtagmanagervarificationnumber:
 optimizevarificationnumber:
 facebookpixelnumber: "438112533832846" 
