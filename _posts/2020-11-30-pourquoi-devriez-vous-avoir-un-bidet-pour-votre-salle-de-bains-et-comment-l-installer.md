@@ -99,8 +99,6 @@ La distance minimale entre le travailleur et un bidet est d'environ 30 cm. L'esp
 
 Si le bidet est situé près du mur, il est recommandé de le placer à environ 30-40 cm du mur. Il est important de garder un espace suffisant devant le bidet. Pour plus de commodité, gardez environ 60 cm d'espace libre devant l'élément.
 
-![](/uploads/bidet2.jpg)
-
 ## Comment installer un bidet ? Est-ce difficile ?
 
 L'installation d'un bidet ressemble à celle de tout autre équipement de salle de bains - et elle peut être effectuée très rapidement.
