@@ -68,8 +68,6 @@ N'oubliez pas que les cloisons sèches créées n'auront un bel aspect que si vo
 
 Si vous vous demandez comment dissimuler des tuyaux dans une petite salle de bains, les cloisons sèches conviennent également dans ce cas. V**ous devez cependant garder à l'esprit que les intérieurs à taux d'humidité élevé nécessitent des plaques de plâtre spéciales et imperméables**. Elles sont nettement plus durables et moins vulnérables aux facteurs nocifs.
 
-![](/uploads/948196e9ad254b4f8fd0feeca9d3db0b.jpg)
-
 ## Cacher les tuyaux avec de la couleur
 
 Vous cherchez un moyen rapide de cacher des tuyaux ? Il existe une méthode beaucoup moins coûteuse et moins invasive que de recouvrir les tuyaux de plaques de plâtre - les peindre de la couleur du mur. Il est préférable de le faire en même temps que la finition ou la rénovation de l'intérieur. La seule chose à retenir dans ce cas est de choisir exactement la même couleur que celle des autres parties de l'intérieur qui ont été peintes. De cette façon, les tuyaux s'harmoniseront parfaitement avec le mur et seront pratiquement invisibles.
@@ -85,8 +83,6 @@ Si vous souhaitez dissimuler des tuyaux situés sous le plafond ou près du sol,
 {:.distinction.distinction-info.distinction-negative}
 
 Pour couvrir les éléments indésirables situés à même le sol, utilisez un large canapé et placez-le près du mur, sur toute sa longueur. C'est une méthode très abordable - vous n'avez pas besoin de faire des rénovations.
-
-![](/uploads/17523f9df91141dbb5e50ea171230750.jpg)
 
 ## Boxe spéciale pour tuyaux
 
