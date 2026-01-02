@@ -70,8 +70,6 @@ Mais comment savoir où se trouve le radiateur de la salle de bains ? Il est rec
 
 La conception d'un radiateur de salle de bains est souvent déterminante pour les propriétaires qui envisagent de rénover leur salle de bains. C'est pourquoi les radiateurs traditionnels sont remplacés par des radiateurs de salle de bains (serviettes). Outre leur fonction la plus élémentaire, qui est d'émettre de la chaleur dans la pièce, ils servent également de décoration. De plus, ils sont très fonctionnels car ils permettent de faire sécher les petits vêtements et les serviettes de bain.
 
-![](/uploads/grzejnik2.jpg)
-
 ## Un radiateur de salle de bains en forme de serviette est une bonne option !
 
 Les radiateurs sèche-serviettes sont l'un des choix les plus populaires parmi les personnes qui souhaitent rénover leur salle de bains. C'est principalement dû au fait qu'il existe différents modèles de radiateurs sèche-serviettes sur le marché. Ce qu'il faut noter, c'est qu'ils ont tous une construction similaire.
@@ -113,8 +111,6 @@ Cette question est liée à plusieurs aspects cruciaux. La puissance d'un radiat
 Vous vous demandez comment installer un radiateur de salle de bains ? L'installation d'un radiateur sèche-serviettes est très simple. Si vous rénovez votre salle de bains, vous pouvez facilement le faire vous-même. Le kit acheté doit contenir tous les éléments nécessaires à l'installation. Il suffit de suivre quelques règles.
 
 Comme le radiateur de salle de bains à eau est le modèle le plus populaire, nous vous présentons le guide d'installation de ce type d'équipement.
-
-![](/uploads/grzejnik3.jpg)
 
 L'aspect le plus important est de couper l'eau. Ensuite, vous pouvez suivre les étapes ci-dessous pour installer le radiateur de la salle de bains :
 
