@@ -69,8 +69,6 @@ Cette dernière solution est particulièrement intéressante pour ceux qui ont c
 
 L'installation de l'évier doit commencer par la mise en place d'un vidage automatique de l'évier dans le drain. Ensuite, installez le robinet. **Au cours de ces deux étapes, n'oubliez pas d'insérer des joints d'étanchéité protégeant l'évier des fuites**. Fixez le siphon d'évier et insérez un tuyau d'évacuation dans le côté de l'élément et vissez le bouchon. Vous pouvez le faire facilement par vous-même, et qui plus est, cela peut être fait manuellement - les outils spéciaux ne sont pas nécessaires.
 
-![](/uploads/e11ae5ec4c414aefaa7f0f93d5edd21a.png)
-
 ## Comment installer un meuble-lavabo ?
 
 Les meubles sous-lavabo sont l'un des éviers de salle de bains les plus populaires. Ils s'intègrent parfaitement dans les intérieurs modernes de style scandinave. Ils sont généralement ronds ou elliptiques. Le marché offre une grande variété d'équipements de ce type, ce qui permet à chacun d'adapter un produit idéal à ses besoins individuels.
