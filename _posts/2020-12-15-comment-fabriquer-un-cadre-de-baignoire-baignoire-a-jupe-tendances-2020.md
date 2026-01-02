@@ -79,8 +79,6 @@ Selon le type de votre baignoire à jupe, vous aurez besoin de différents acces
 
 De plus, si vous êtes intéressé par les plaques de plâtre, vous aurez besoin de rails métalliques en C et U, de lattes en bois, d'une perceuse électrique et de ciseaux. Si vous fabriquez un cadre de baignoire à partir de blocs de béton, vous aurez besoin de mortier ou de colle à béton, d'une membrane liquide, d'une lime fine et d'une lime grossière et d'outils de base pour la maçonnerie.
 
-![](/uploads/tub2.jpg)
-
 ### Une baignoire à jupe - un guide d'installation étape par étape
 
 Si vous souhaitez installer vous-même une baignoire à jupe, vous devez suivre les conseils des spécialistes. Consultez les 8 étapes ci-dessous - elles vous aideront dans votre travail.
@@ -115,8 +113,6 @@ Le trou doit être suffisamment grand pour permettre de manœuvrer facilement le
 ## Baignoire à jupe - les tendances les plus populaires 2020
 
 Vous vous demandez comment fabriquer une jupe de baignoire ? Vous cherchez des idées pour rénover votre salle de bains ? Il existe de nombreuses solutions sur le marché. Faites attention aux tendances les plus populaires de 2020, afin que votre intérieur soit toujours à la page. En utilisant une baignoire à jupe apparemment insignifiante, vous pourriez obtenir un tout autre résultat. N'oubliez pas qu'une jupe de baignoire fabriquée, dite universelle, n'est plus à la mode. Elle aurait pu être rapide et facile à installer, mais l'esthétique n'était pas la meilleure. Elle a été remplacée par des solutions beaucoup plus esthétiques.
-
-![](/uploads/tub3.jpg)
 
 ### Une jupe de baignoire - parfaitement assortie aux éléments céramiques et à la robinetterie
 
