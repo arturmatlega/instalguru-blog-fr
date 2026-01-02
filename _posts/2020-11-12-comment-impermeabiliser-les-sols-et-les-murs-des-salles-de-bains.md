@@ -72,8 +72,6 @@ Quelle que soit l'habileté avec laquelle les tuiles ont été posées, certaine
 
 Il existe deux types d'imperméabilisation de surface que l'on peut réaliser dans une pièce. Le principal problème est de sécuriser la surface avant de poser les carreaux. Les produits utilisés à ce stade protégeront la structure du bâtiment contre l'intrusion de l'eau. L'imperméabilisation des carreaux est un autre problème. Grâce à des substances spéciales, l'eau restera sur le carreau, et elle peut être facilement éliminée par le biais d'un système de ventilation.
 
-![](/uploads/hydroizolacja2.jpg)
-
 ## Étanchéité d'une salle de bains - quelles parties des chambres ?
 
 En règle générale, chaque salle de bains comporte deux zones : humide et sèche. La première concerne essentiellement toute la pièce. Ce sont les endroits susceptibles d'être en contact avec l'eau, qui peut éclabousser partout - lors des activités quotidiennes ordinaires.
@@ -91,8 +89,6 @@ L'imperméabilisation des salles de bains peut se faire avec trois types de prod
 * **Membrane d'étanchéité liquide** - elle est à base de résine synthétique, grâce à laquelle elle assure une protection parfaite. Le produit est très facile à utiliser - il suffit de le mélanger et de couvrir une zone particulière avec, par exemple, un rouleau ou un pinceau spécial. La première couche peut être posée librement, tandis que la suivante doit être perpendiculaire à celle-ci. Le plus grand avantage de la membrane est sa polyvalence. Elle peut être utilisée aussi bien pour les surfaces en béton, le plâtre de ciment que les plaques de plâtre. Ce type de protection est fortement recommandé à tous ceux qui apprécient leur temps - la membrane sèche rapidement, de sorte que l'on peut immédiatement commencer à poser les carreaux dans la salle de bains.
 * **Les composés d'étanchéité** - c'est une parfaite alternative à une membrane liquide. Elle est faite de mortier de ciment et de résine synthétique. Ce type de matériau a une structure beaucoup plus dense que la membrane mentionnée précédemment. Il est généralement utilisé pour sécuriser les surfaces minérales, mais les fabricants proposent également des produits pour le revêtement de panneaux ou de pierres. Le composé doit être appliqué en croix, en deux couches. Il ne peut pas être utilisé pour les intérieurs avec chauffage par rayonnement au sol.
 * **Les composés d'étanchéité à base de ciment** - également un matériau très efficace, utilisé non seulement pour les salles de bains, mais aussi pour les balcons, les patios, et pour protéger les fondations. Ce matériau est très durable, résistant au gel et flexible.
-
-![](/uploads/hydroizolacja3.jpg)
 
 ## Comment imperméabiliser une salle de bains - un guide étape par étape
 
