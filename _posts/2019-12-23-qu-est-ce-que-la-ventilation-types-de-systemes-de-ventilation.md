@@ -85,8 +85,6 @@ Dans certains cas, la ventilation naturelle est obligatoire - elle est réglemen
 
 **La ventilation naturelle est la plus vulnérable en hiver et en été.** Un tel système fonctionne grâce aux différences de température entre l'extérieur et l'intérieur du bâtiment. L'air à l'intérieur doit être plus chaud qu'à l'extérieur. Très souvent, surtout lorsque les bouches d'aération sont mal conçues, l'air retourne dans le bâtiment en été. En hiver, en revanche, la ventilation naturelle peut être la cause d'une température intérieure basse.
 
-![](/uploads/vent-207144_960_720.webp)
-
 ## Système de ventilation à la maison - un équipement de pointe en vaut-il la peine ?
 
 En ce qui concerne la ventilation mécanique, il existe plusieurs types de système. Selon le mécanisme, on peut distinguer des systèmes tels que :
@@ -134,8 +132,6 @@ La ventilation doit être testée par un spécialiste agréé. Le moment d'un te
 {:.distinction.distinction-info.distinction-negative}
 
 Une bonne ventilation du bâtiment est cruciale, et ne doit pas être négligée. Comme nous passons généralement la plupart de notre temps à la maison, il faut s'assurer que c'est l'endroit où l'on se sent en sécurité et à l'aise.
-
-![](/uploads/wentylacja_w_domu.jpg)
 
 ## Ventilation des garages - que dit la loi ?
 
