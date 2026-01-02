@@ -90,8 +90,6 @@ Le goutte-à-goutte est une solution unique qui présente de nombreux avantages.
 * **Un système d'irrigation au goutte à goutte signifie un risque moindre de maladies des plantes.** L'eau est distribuée directement dans le sol, de sorte qu'elle n'a aucun contact avec les parties aériennes des plantes. Elle empêche la propagation de champignons et de moisissures, ce qui se produit assez souvent lorsque les plantes sont arrosées d'eau par le haut. Une ligne d'égouttage élimine également le problème des feuilles brûlées par le soleil.
 * **Un tel système pourrait contribuer à une meilleure récolte de légumes, de fruits et d'herbes.** Un système d'arrosage au goutte-à-goutte permet de mieux soigner les plantes et de les rendre indépendantes des conditions climatiques. Il n'y a pas lieu de craindre qu'une sécheresse ne détruise les cultures.
 
-![Quels sont les avantages de l'irrigation au goutte-à-goutte?](/uploads/nawadnianie-kropelkowe-instalguru.jpg "Quels sont les avantages de l'irrigation au goutte-à-goutte?")
-
 ## Où peut-on utiliser un système d'irrigation goutte à goutte?
 
 Comme les goutteurs peuvent couvrir des surfaces assez importantes, c'est un système **recommandé pour les terres cultivées.** Il est parfait pour arroser des plantes comme les fraises, les myrtilles et les arbres fruitiers. L'installation vous donne un contrôle total sur la quantité d'eau transportée vers une plante. Grâce à cela, il n'y a pas de risque de sur-arrosage, qui pourrait provoquer la décomposition des plantes. C'est un aspect important qui a un impact sur la qualité de la récolte.
@@ -105,8 +103,6 @@ Un système d'irrigation au goutte-à-goutte n'est pas recommandé pour les pelo
 ## Y a-t-il des inconvénients à l'irrigation au goutte-à-goutte?
 
 Malgré les avantages indéniables d'un système d'irrigation au goutte-à-goutte, il faut aussi en connaître les inconvénients. C'est un système qui ne peut pas vraiment être déplacé, c'est pourquoi il doit être utilisé principalement pour les plantes vivaces. Comme toute installation d'eau, le goutte-à-goutte est sensible à la saleté. Elle peut se boucher. **Chaque élément du système doit être entretenu régulièrement.** Un autre problème est la difficulté de régler l'intensité de l'arrosage pour certaines plantes. Il peut être résolu en utilisant un séparateur pour créer plusieurs lignes de goutte-à-goutte indépendantes.
-
-![Y a-t-il des inconvénients à l'irrigation au goutte-à-goutte?](/uploads/linia-kroplujaca-nawadnianie.jpg "Y a-t-il des inconvénients à l'irrigation au goutte-à-goutte?")
 
 ## Système d'arrosage au goutte-à-goutte - quels sont les éléments nécessaires pour créer une installation?
 
@@ -143,8 +139,6 @@ Vous vous demandez combien coûte un système d'irrigation au goutte-à-goutte? 
 {:.distinction.distinction-info.distinction-positive}
 
 Moins l'installation est compliquée, moins elle coûte. C'est pourquoi il convient d'examiner toutes les solutions qui pourraient être utilisées. Les petits modèles peuvent certainement renoncer aux contrôleurs électroniques, à moins que la commodité ne soit la priorité. On peut également réduire les coûts en choisissant d'installer le système par soi-même.
-
-![Système d'irrigation au goutte-à-goutte - coûts estimés](/uploads/podlewanie-kropelkowe.jpg "Système d'irrigation au goutte-à-goutte - coûts estimés")
 
 ## De quoi faut-il encore se souvenir lorsqu'on installe un système d'irrigation au goutte-à-goutte?
 
