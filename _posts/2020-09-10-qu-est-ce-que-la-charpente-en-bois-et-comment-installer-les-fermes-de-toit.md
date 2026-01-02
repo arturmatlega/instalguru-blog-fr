@@ -64,8 +64,6 @@ Les éléments qui apparaissent dans la charpente en bois dépendent surtout de 
 
 Il existe de nombreux types de charpentes en bois sur le marché. **La décision de choisir une ferme de toit doit être prise au stade de la conception du bâtiment**. Avant de choisir une solution particulière, il convient de prendre en compte des facteurs tels que la taille et la forme de la maison, le budget et l'aspect esthétique. Les maisons standard utilisent généralement une ferme simple, une ferme à collet ou une ferme à poteaux.
 
-![Types de toits - quels types de fermes de toit sont les plus populaires ?](/uploads/wiezba-dachowa-budowa-domu.jpg "Types de toits - quels types de fermes de toit sont les plus populaires ?")
-
 ### Une simple ferme de toit
 
 Une telle construction peut être utilisée lorsque les murs du bâtiment ne sont pas distants de plus de 7 mètres. **La pente du toit ne doit pas dépasser 45 degrés**. Une simple charpente de toit est l'un des types de charpente en bois les plus couramment utilisés. Elle utilise des chevrons et des pannes normaux qui, ensemble, forment une ferme de toit reposant sur les murs du bâtiment. Les chevrons ne sont soutenus qu'en deux endroits : sur les murs et sur le faîte.
@@ -88,8 +86,6 @@ Il existe de nombreux types de toits sur le marché. La décision finale dépend
 
 * La préparation **traditionnelle des fermes de toit** nécessite de choisir les matériaux séparément. Les poutres du toit doivent être achetées dans une scierie, et le toit lui-même est construit sur place. Les poutres en bois massif atteignent généralement jusqu'à 7 mètres. Si le projet nécessite des poutres plus longues, il faut choisir des éléments en bois collé ainsi que des renforts en acier.
 * **Les fermes de toit préfabriquées** sont nettement plus polyvalentes en termes de taille. Comme les éléments s'harmonisent parfaitement, cette solution nécessite beaucoup moins de bois que les projets traditionnels. Le processus d'installation est nettement plus rapide - il est effectué par l'équipe du fabricant. Dans ce cas, l'espace dans le grenier est sérieusement limité, ce qui peut être un inconvénient pour certains.
-
-![Fermes de toit traditionnelles vs. charpente préfabriquée en bois](/uploads/konstrukcje-dachu.jpg "Fermes de toit traditionnelles vs. charpente préfabriquée en bois")
 
 ## Quel est le meilleur bois pour les fermes de toit ?
 
