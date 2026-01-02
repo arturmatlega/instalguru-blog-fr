@@ -79,8 +79,6 @@ La pose de carreaux standard sur un mur ou un sol nécessite l'utilisation d'un 
 
 Le carrelage des murs et du sol est un élément décoratif très important dans un intérieur. Grâce à une pose correcte des carreaux, la pièce peut avoir l'air élégante et esthétique, c'est pourquoi il convient **d'accorder une attention particulière à des aspects tels que la forme et le motif des carreaux.** Indépendamment de ces paramètres, la pose du carrelage peut avoir un aspect très différent. Découvrez les méthodes les plus courantes de pose de carrelage. Grâce à elles, votre intérieur étonnera tout le monde.
 
-![](/uploads/plytki2.jpg)
-
 ### Comment poser une tuile carrée ?
 
 La tuile carrée est l'un des types les plus courants disponibles sur le marché. Il n'est donc pas étonnant qu'elle soit choisie par de nombreux propriétaires.
@@ -125,8 +123,6 @@ La pose de carreaux avec un système de nivellement moderne est une méthode bea
 
 Un système de nivellement des carreaux est également une aide parfaite pour les spécialistes. Quels sont ses avantages pour un professionnel ? **La pose des carreaux peut être deux fois plus rapide que d'habitude. Grâce à ce système, on peut effectuer deux fois plus de travail et donc gagner deux fois plus d'argent.**
 
-![](/uploads/plytki3.jpg)
-
 ## Comment poser du carrelage ? Un guide rapide, étape par étape
 
 La préparation avant la **pose des carreaux** doit consister à rassembler tous les outils nécessaires et à vérifier les emballages avec les carreaux. Si tout va bien, vous pouvez poser tous les éléments sur le sol.
@@ -142,8 +138,6 @@ Le jointoiement. Une fois que le mortier a séché, il faut se débarrasser du s
 ## Comment poser du carrelage sans coulis ?
 
 De nombreux propriétaires rêvent d'un sol parfaitement régulier, sans joints inesthétiques. **Un sol lisse et sans défaut donne à la pièce un aspect élégant et minimaliste, et donne l'impression d'un espace plus grand.** Mais est-il possible de poser des carreaux de manière à ce que les joints entre eux soient invisibles ? Apparemment, rien n'est impossible de nos jours. Cependant, la pose de carreaux de cette manière peut présenter un certain risque. Vérifiez-le avant de vous décider pour une solution particulière.
-
-![](/uploads/plytki4.jpg)
 
 ### Quel est le but du coulis ?
 
