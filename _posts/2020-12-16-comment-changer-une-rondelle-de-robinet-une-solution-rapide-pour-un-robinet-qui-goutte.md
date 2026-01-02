@@ -71,8 +71,6 @@ Il y a de nombreuses raisons pour lesquelles un robinet fuit. Le problème le pl
 
 Les éléments en caoutchouc protègent l'appareil contre les fuites, mais ils s'usent au bout d'un certain temps. Par conséquent, ils perdent leur capacité d'étanchéité. Ce sont des produits d'une longévité limitée, surtout s'ils sont utilisés intensivement. Vous pouvez résoudre vous-même le problème d'un robinet qui fuit. Le remplacement de la rondelle n'est qu'une question de quelques minutes de travail et un coût très faible. Assurez-vous d'acquérir les connaissances de base à ce sujet, afin de ne pas rencontrer de problèmes.
 
-![](/uploads/washer2.jpg)
-
 ## Comment remplacer une vieille rondelle de robinet ?
 
 Qu'il s'agisse d'un évier de cuisine ou d'une baignoire, le remplacement d'un lave-vaisselle implique toujours la même action. Vous devez utiliser un petit élément : un joint d'étanchéité. Avant de l'installer, déterminez son épaisseur et sa taille. Ces paramètres déterminent si le nouvel élément s'adapte et, par conséquent, si le robinet fonctionne correctement.
@@ -109,8 +107,6 @@ Si vous vous demandez comment remplacer une rondelle de robinet, nous avons un g
 * Dévissez et démontez toute la poignée. Cela peut être fait facilement sans utiliser d'outils supplémentaires.
 * Ensuite, retirez la tige du manchon - pour ce faire, vous pouvez utiliser une clé à fourche ou une clé à molette. Grâce à cela, vous avez un accès complet à la cartouche, ce qui vous permet d'examiner la rondelle du robinet. Si l'élément est usé ou endommagé, remplacez-le : enlevez la vis, retirez l'ancienne bague et remplacez-la par une nouvelle. Quel est le meilleur type de bague ? Vous pouvez choisir une rondelle en silicone - blanche ou noire.
 
-![](/uploads/washer3.jpg)
-
 ## Comment réparer un robinet mélangeur ?
 
 La réparation d'un robinet mélangeur ressemble beaucoup à une réparation de robinet standard. La principale différence réside dans la construction - qui influe en fait sur le temps consacré à l'activité.
@@ -134,8 +130,6 @@ Lors du remplacement d'une rondelle de robinet, vous pouvez également nettoyer 
 Un robinet qui goutte peut être le signe d'un mauvais fonctionnement du bec. Dans ce cas également, la réparation est assez simple et facile - vous pouvez la faire vous-même. Il vous suffit de retirer les vis d'installation et de retirer le bec avec précaution, en veillant à ne pas endommager l'évier. Ensuite, retirez l'ancienne rondelle. Insérez les nouveaux éléments en place. Si vous avez réussi à le faire correctement - remettez le bec en place et serrez la vis de manière à ce que le robinet ne bouge pas d'un côté à l'autre.
 
 Vous vous demandez quel est le meilleur produit dans ce cas ? Un joint torique en caoutchouc pour le bec est parfait. Il est disponible en deux tailles standard : 1/2'', 16 mm, 12 mm ou 3/4'', 18 mm, 14 mm.
-
-![](/uploads/washer4.jpg)
 
 ## Quel est le coût du remplacement d'un lave-vaisselle ?
 
