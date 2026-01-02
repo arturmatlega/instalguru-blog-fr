@@ -79,8 +79,6 @@ C'est la méthode la plus populaire, qui fonctionne s'il y a des **résidus à l
 
 Il peut arriver que la question ait été ignorée pendant si longtemps que les tuyaux ont été bouchés. Dans ce cas, il faut débloquer les tuyaux.
 
-![](/uploads/22026fe9c155463eaf62d4cf9553d0e6.png)
-
 ### Vérifiez les remèdes maison pour les tuyaux bouchés - la meilleure façon de déboucher votre évier
 
 Si l'évier bouché signifie que les tuyaux sont obstrués, vous pouvez utiliser une méthode très simple avec du bicarbonate de soude, du vinaigre et de l'eau bouillante. Comment déboucher l'évier avec cette méthode ?
