@@ -72,8 +72,6 @@ Il se peut également que vous soyez confronté à des restrictions concernant l
 
 Outre les kiosques, les restrictions et les autorisations de construction concernent également d'autres types d'installations telles que les hangars de service et les garages isolés.
 
-![](/uploads/gazebo2.jpg)
-
 ## Comment construire un belvédère ? Commencez par les fondations !
 
 Des fondations stables sont l'un des points les plus importants lors de la construction d'un pavillon. L'installation doit résister aux conditions météorologiques, comme les vents forts.
@@ -91,8 +89,6 @@ Comme l'affirment les spécialistes, les produits à base de résine ou d'huile 
 {:.distinction.distinction-info.distinction-negative}
 
 Bien que le vernis soit généralement parfait pour la protection du bois, il n'est pas recommandé de l'utiliser dans un gazebo. Certaines plantes peuvent utiliser le gazebo comme base pour leur croissance. Si la surface est trop glissante - la plante ne peut pas s'y fixer et sa croissance est entravée.
-
-![](/uploads/gazebo3.jpg)
 
 ## Construire un pavillon de jardin - quel type de couverture choisir ?
 
