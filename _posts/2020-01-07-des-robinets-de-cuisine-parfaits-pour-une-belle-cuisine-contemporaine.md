@@ -76,8 +76,6 @@ Une cuisine moderne doit être, avant tout, fonctionnelle. Ce critère est déte
 
 À quoi faut-il faire attention lors du choix de ce type d'équipement de cuisine - comment choisir un bon robinet de cuisine ? Comme l'affirment de nombreux fabricants, le meilleur bec de cuisine doit correspondre parfaitement aux besoins particuliers de l'utilisateur. Un produit soigneusement choisi peut rendre la vie plus facile et simplifier les tâches quotidiennes. Le marché propose des robinets de cuisine avec trois types de becs au choix : extractible, flexible et rotatif.
 
-![](/uploads/b4edda8b4d0c45fba909345f2184e419.jpg)
-
 ### Un robinet extractible
 
 Les tendances récentes dans la conception des cuisines modernes ont intégré des choix intéressants en ce qui concerne les robinets de cuisine. L'un d'entre eux - un robinet télescopique extractible placé sous une fenêtre. Il s'agit d'un appareil de cuisine très fonctionnel. Un tel modèle peut être installé aussi bien par une seule cuve que par un évier à double cuve.
