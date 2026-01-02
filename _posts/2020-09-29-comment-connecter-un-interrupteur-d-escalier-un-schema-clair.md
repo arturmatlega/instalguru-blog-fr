@@ -53,8 +53,6 @@ Les spécialistes classent les interrupteurs d'éclairage en fonction de plusieu
 
 À en juger par l'esthétique, on peut également distinguer les interrupteurs d'éclairage selon le type de boutons. Les fabricants proposent des interrupteurs traditionnels avec un bouton mécanique. Les interrupteurs à effleurement sont de plus en plus populaires. Ils sont dotés d'un panneau lisse avec un capteur qui réagit au toucher.
 
-![Interrupteur d'escalier - quelles sont ses caractéristiques ?](/uploads/jak_podlaczyc_wlacznik_schodowy.jpg "Interrupteur d'escalier - quelles sont ses caractéristiques ?")
-
 ### Interrupteur d'éclairage à deux et trois voies
 
 Les interrupteurs d'escalier sont un type particulier de dispositifs. Ils permettent de contrôler une source de lumière à partir de deux endroits différents. C'est une solution particulièrement utile dans les escaliers, de sorte qu'il n'est pas nécessaire de remonter ou de descendre pour éteindre la lumière.
@@ -82,10 +80,6 @@ En général, pour raccorder un interrupteur, il faut plusieurs éléments. Ils 
 
 Chaque commutateur - à sens unique ou multiple - fonctionne selon un principe similaire. Pour allumer la lumière, il faut déplacer l'interrupteur, c'est-à-dire fermer le circuit électrique. Analogiquement, en déplaçant l'interrupteur, on coupe le circuit et l'électricité cesse de circuler - la lumière s'éteint.
 
-Pour connecter le plus simple des interrupteurs à sens unique, il faut connecter des fils entre l'interrupteur et l'ampoule. **Voir le schéma d'un tel circuit ci-dessous :**
-
-![Interrupteur d'éclairage - principe général de fonctionnement](/uploads/jak_podlaczyc_wlacznik_schemat1_fr.jpg "Interrupteur d'éclairage - principe général de fonctionnement")
-
 Ne mélangez en aucun cas les fils - par exemple la phase avec la ligne neutre. Cela constituerait une menace lors du changement d'une ampoule - même si la lumière est éteinte !
 
 ### Interrupteur d'escalier - schéma
@@ -94,16 +88,8 @@ La connexion d'un circuit à deux interrupteurs d'escalier est un peu plus compl
 
 Un schéma d'interrupteur d'escalier est plus élaboré. Dans ce cas, le fil de phase est connecté à l'un des interrupteurs à double sens, et la source lumineuse - à l'autre. Le fil neutre et le conducteur de terre sont conduits indépendamment à la source de lumière. Les deux interrupteurs doivent être reliés entre eux par des fils supplémentaires.
 
-**Voir le schéma de l'interrupteur d'escalier ci-dessous :**
-
-![Interrupteur d'escalier - schéma](/uploads/jak_podlaczyc_wlacznik_schemat2_fr.jpg "Interrupteur d'escalier - schéma")
-
 ### Comment connecter un interrupteur à trois voies ?
 
 Comme nous l'avons déjà mentionné, **il est possible de raccorder plus de deux interrupteurs pour une même source de lumière.** Pour ce faire, il faut utiliser un interrupteur à trois voies. Le schéma d'un tel branchement n'est pas très différent du schéma d'un interrupteur à deux voies - il y a un troisième interrupteur entre les deux interrupteurs externes. Le nombre d'interrupteurs intermédiaires est illimité, et il peut être ajusté selon les besoins. Grâce à celui-ci, on pourra éteindre la lumière de l'escalier tout en étant dans une autre pièce.
-
-**Voir le diagramme des interrupteurs à trois positions présenté ci-dessous :**
-
-![Comment connecter un interrupteur à trois voies ?](/uploads/jak_podlaczyc_wlacznik_schemat3_fr.jpg "Comment connecter un interrupteur à trois voies ?")
 
 **Le branchement d'un interrupteur d'escalier à deux ou trois voies n'est pas aussi difficile qu'il n'y paraît.** Si vous avez le bon schéma de branchement, vous pouvez facilement le faire vous-même.
