@@ -79,8 +79,6 @@ Un système de gaz avec des tuyaux en cuivre offre de nombreuses possibilités d
 
 Une autre méthode consiste à utiliser des raccords à sertir. Dans ce cas particulier, un raccord PEX habituel fera l'affaire. Toutefois, si vous voulez changer la direction du système de gaz et l'adapter à la construction du bâtiment, utilisez des tés ou des coudes à sertir en PEX. Le processus d'installation de ces éléments est actuellement l'un des plus faciles, c'est pourquoi tout spécialiste devrait pouvoir le faire. Ce fait réduit définitivement les coûts d'installation du gaz.
 
-![](/uploads/e2aff6e93728483ea374e9d2c218e2c2.jpg)
-
 ## Tuyaux en acier - les installations de gaz sont-elles plus sujettes à des facteurs nocifs ?
 
 Les tuyaux en acier utilisés pour l'installation des conduites de gaz ont un diamètre plus important que leurs homologues en cuivre. Les parois d'un tube en acier sont plus épaisses, donc plus rigides, et il n'est pas nécessaire de le fixer à une paroi avec des éléments supplémentaires. Malheureusement, ce type d'installation est très lourd. **Une installation de ligne de gaz domestique comme celle-ci est également beaucoup plus lourde.** Tout comme les conduites en cuivre, les tubes à forte pente sont thermiquement dilatables. Grâce à cette caractéristique, ils sont parfaits pour les températures élevées.
