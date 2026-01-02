@@ -72,8 +72,6 @@ De nombreuses personnes sont préoccupées par la qualité de l'eau du robinet. 
 
 **Le goût chimique qui est commun à l'eau du robinet est le résultat de procédés de désinfection au chlore.** C'est l'un des problèmes les plus fréquemment mentionnés par les utilisateurs d'eau du robinet. Cela ne signifie pas pour autant que l'eau d'un puits privé est irréprochable. Dans ce cas, le goût du fer est un problème courant. Tout dépend de l'emplacement et de la profondeur de la source.
 
-![Quelle est la raison des problèmes de goût de l'eau ?](/uploads/domowa-stacja-uzdatniania-wody-1.jpg "Quelle est la raison des problèmes de goût de l'eau ?")
-
 ## L'eau de votre propre source - est-elle plus saine que celle d'un fournisseur ?
 
 On pense que l'eau de votre propre puits est de meilleure qualité que celle d'un système local d'approvisionnement en eau. **Quelle est la réalité ? En raccordant la maison à la conduite d'eau principale,** on peut être sûr que l'eau est salubre, ce qui a déjà été expliqué. Des tests réguliers éliminent la présence de substances dangereuses. Dans le cas des puits privés, il faut contrôler la qualité de l'eau par soi-même. Ce contrôle est souvent négligé en raison du montant des frais de procédure.
@@ -100,8 +98,6 @@ Il existe sur le marché différents types de filtres à eau, avec des paramètr
 
 Les types les plus simples sont **les filtres à eau à mailles, à ficelle et à mousse. Ils sont également appelés filtres mécaniques ou filtres à sédiments.** Grâce à eux, le système de filtration de l'eau élimine les particules de sable et de rouille, invisibles à l'œil nu. L'efficacité de ces cartouches dépend de leur densité et de la taille des particules qu'elles peuvent arrêter.
 
-![Solutions de filtration de l'eau - quel est le meilleur purificateur d'eau ?](/uploads/domowa-stacja-uzdatniania-wody-2.jpg "Solutions de filtration de l'eau - quel est le meilleur purificateur d'eau ?")
-
 Les filtres à eau en fer sont une autre option populaire, utilisée surtout pour les puits privés. **Semblables à des cartouches mécaniques, ils sont généralement installés sur des tuyaux dans un boîtier spécial de taille et de construction appropriées.** Le rôle de ces équipements est d'éliminer les composés ferreux nocifs. Ils éliminent aussi partiellement l'azote ou même le sulfure d'hydrogène.
 
 De nombreux ménages ont un problème **d'eau dite dure**. Cela signifie qu'elle contient beaucoup de calcium et de magnésium. Ce n'est pas un problème non plus, car un filtre adoucisseur d'eau approprié éliminera les sédiments du liquide.
@@ -111,8 +107,6 @@ De nombreux ménages ont un problème **d'eau dite dure**. Cela signifie qu'elle
 Un filtre multimédia est l'un des meilleurs choix pour un ménage. Ce type d'appareil est **très efficace**. Grâce à lui, le purificateur d'eau peut éliminer différents types de substances. Selon le support, différents résultats peuvent être obtenus.
 
 **Le milieu n'est autre que le matériau spécial de remplissage du réservoir, qui absorbe les substances nocives**. Selon le type, il faut le laver ou le régénérer de temps en temps. Il y a aussi un autre aspect important : un purificateur d'eau comme un réservoir filtrant doit être relié au réseau électrique et au système d'égouts.
-
-![Réservoir de filtrage multimédia - comment fonctionne un système moderne de purification de l'eau ?](/uploads/domowa-stacja-uzdatniania-wody-3.jpg "Réservoir de filtrage multimédia - comment fonctionne un système moderne de purification de l'eau ?")
 
 ## Système de filtration de l'eau à domicile - vaut-il la peine d'installer un filtre à osmose inverse ?
 
