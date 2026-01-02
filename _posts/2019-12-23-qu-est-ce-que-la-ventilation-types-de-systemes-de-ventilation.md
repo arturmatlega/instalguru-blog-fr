@@ -151,8 +151,6 @@ L'air de température plus élevée provenant du garage a une densité plus faib
 
 Si vous décidez d'utiliser un tel système de ventilation dans le garage, pensez à vous équiper de bouches d'aération rectangulaires ou carrées de couleur marron. La ventilation de la maison utilise généralement des bouches d'aération rondes et blanches. Ces dernières sont particulièrement universelles, car elles s'adaptent à tous les intérieurs, quel que soit le style dans lequel elles ont été conçues.
 
-![](/uploads/wentylacja_w_domu2.jpg)
-
 **On peut également utiliser la ventilation mécanique dans le garage.** Cette solution permet non seulement de fournir beaucoup d'air frais, mais aussi de le sécher. La ventilation mécanique ne dépend pas des conditions météorologiques, elle fonctionne donc parfaitement en toute saison. Une condition nécessaire pour un tel système de ventilation est une parfaite étanchéité de la pièce. En outre, le processus d'installation en fait une ventilation de garage nettement plus coûteuse. Il faut également être prêt à assumer les coûts de son entretien.
 
 {:.distinction.distinction-info.distinction-positive}
