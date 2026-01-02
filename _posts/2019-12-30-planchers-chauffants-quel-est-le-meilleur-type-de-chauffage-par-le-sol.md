@@ -84,8 +84,6 @@ Le gaspillage du potentiel thermique et la génération de coûts inutiles const
 
 Le coût des planchers chauffants comprend à la fois **les matériaux et le service d'installation**. Gardez à l'esprit que les coûts initialement calculés ne sont que des valeurs estimatives. Les dépenses totales peuvent être influencées par l'équipement requis, la qualité et, surtout, la rémunération de la personne qui installe les éléments, qui dépend généralement de la région.
 
-![](/uploads/a7c8d4bf9636492d89a96f367d907195.jpg)
-
 ## Chauffage électrique par le sol - quand faut-il le choisir ?
 
 **Le chauffage électrique par le sol présente de nombreux avantages**. Il est facile à installer dans tout type d'espace dans tout bâtiment. Il peut être utilisé comme système de chauffage principal pour la maison ou l'appartement, mais aussi comme complément d'une autre méthode.
