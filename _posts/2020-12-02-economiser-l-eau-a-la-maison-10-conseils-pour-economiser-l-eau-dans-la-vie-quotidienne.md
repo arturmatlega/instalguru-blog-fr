@@ -74,8 +74,6 @@ Vous vous demandez comment assurer la salubrité de l'eau dans la vie quotidienn
 
 Comment économiser l'eau au quotidien lorsqu'on utilise l'eau courante ? Est-ce possible ? Bien sûr, mais il ne faut pas laver la vaisselle à l'eau courante en permanence. Vous pouvez installer un robinet à économie d'eau avec un bec mobile - grâce auquel vous pourrez diriger le jet exactement là où vous en avez besoin.
 
-![](/uploads/watersaving2.jpg)
-
 {:.distinction.distinction-quotation.distinction-positive}
 
 Utilisez-vous un lave-vaisselle ? Pas de problème - dans ce cas également, il est possible d'économiser l'eau. Il suffit de l'allumer seulement lorsqu'il est complètement chargé.
@@ -115,8 +113,6 @@ Si vous vous demandez comment économiser l'eau dans la vie quotidienne lorsque 
 ### Se doucher au lieu de se baigner - une méthode efficace pour économiser l'eau
 
 Comment économiser l'eau dans la vie quotidienne en prenant un bain ? Au lieu de prendre un bain, choisissez la douche. Pour remplir une baignoire, vous avez besoin d'environ 200 litres d'eau. Pour prendre une douche, vous utilisez environ 50 litres. Pensez à ce que vous pouvez économiser si 3 ou 4 personnes vivent dans un même foyer.
-
-![](/uploads/watersaving3.jpg)
 
 ### Comment économiser l'eau sous la douche ? Utilisez des gadgets modernes
 
