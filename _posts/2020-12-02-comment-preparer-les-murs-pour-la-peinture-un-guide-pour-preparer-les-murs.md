@@ -69,8 +69,6 @@ Dans la plupart des cas, il est nécessaire d'apprêter les murs avant de les pe
 
 N'oubliez pas ! Il est nécessaire d'utiliser une couche de peinture primaire si l'ancienne couche a été grattée ou si le mur a été réparé, par exemple, en enduisant de petites indentations à la suite de dommages mécaniques.
 
-![](/uploads/priming2.jpg)
-
 ## Comment vérifier si vous devez appliquer un apprêt pour peinture ?
 
 Il est facile de vérifier si les murs ont besoin d'une couche d'apprêt - il existe deux méthodes. Elles se différencient l'une de l'autre par le fait qu'elles mesurent des paramètres différents.
@@ -86,8 +84,6 @@ L'autre méthode consiste à tester la durabilité du mur et des anciennes couch
 ## Appliquer une couche d'apprêt sur les murs avant de poser le papier peint - quand est-ce nécessaire ?
 
 L'application d'une couche de fond sur les murs avant la pose du papier peint ou après son enlèvement doit toujours être effectuée, que le bâtiment soit neuf ou rénové. Il n'est pas non plus important de savoir quels types de plâtre ont été utilisés dans la pièce. La seule différence est le type d'apprêt que vous allez utiliser.
-
-![](/uploads/priming3.jpg)
 
 ## Apprentissage des murs - comment choisir le bon produit ?
 
