@@ -74,8 +74,6 @@ En utilisant cette solution moderne, un immeuble à plusieurs logements ou un im
 * Peut être placée n'importe où - l'appareil peut être placé là où l'utilisateur le trouve approprié, par exemple dans une buanderie ou une salle de séchage, ou toute autre pièce de service. Ce n'est pas possible pour une chaudière.
 * Pas de réservoir de combustible - grâce à la pompe, il n'est pas nécessaire d'installer un réservoir de mazout, de gaz ou de tout autre combustible.
 
-![](/uploads/tenement2.jpg)
-
 ## Les immeubles d'habitation et les immeubles à appartements peuvent-ils utiliser le chauffage par le sol ?
 
 Le chauffage par le sol est souvent utilisé dans les immeubles modernes à plusieurs logements. La décision, dans ce cas, est prise par les propriétaires d'appartements individuels. Il existe deux solutions au choix. L'une peut utiliser un chauffage par le sol à base d'eau ou électrique. Chaque option génère un confort thermique élevé, bien qu'elles fonctionnent de manière très différente. Les systèmes à base d'eau sont certainement plus populaires.
@@ -93,8 +91,6 @@ Quels sont les principaux avantages du chauffage par le sol à l'eau ? Les plus 
 ## Chaudières à condensation pour les immeubles à plusieurs unités
 
 Les chaudières à condensation sont une alternative pour chauffer les immeubles d'habitation ou les immeubles à appartements. Les appareils de ce type offrent le plus grand confort thermique avec une consommation d'énergie minimale. Les chaudières à condensation sont écologiques et peuvent réduire les coûts d'utilisation du système de chauffage.
-
-![](/uploads/tenement3.jpg)
 
 ### Comment fonctionne une chaudière à condensation ?
 
