@@ -63,8 +63,6 @@ Le drain linéaire est un type de drainage sous la forme d'une longue fente dans
 
 Une douche sans bac à douche avec ce type d'écoulement offre de nombreuses possibilités d'aménagement intérieur, car elle prend peu de place et peut être placée là où l'utilisateur le souhaite. En outre, on peut choisir entre un écoulement linéaire classique au design simple et un écoulement linéaire décoré de sculptures inhabituelles.
 
-![](/uploads/curbless2.jpg)
-
 ## Une douche sans bac à douche est-elle sans danger pour la salle de bains ?
 
 Une douche sans bac à douche est une solution très pratique ; de plus, elle est totalement inoffensive pour la salle de bains, on n'a donc pas à s'inquiéter d'une éventuelle inondation.
@@ -90,8 +88,6 @@ De nombreux fabricants proposent des cabines de douche sans bac à douche. Mais 
 Vous pouvez obtenir de tels murs à un prix très bas, bien qu'il existe aussi des modèles très chers. La gamme de prix des portes de douche est similaire.
 
 Une autre solution est la cabine de douche à accès direct, qui ne comporte qu'un ou deux murs. C'est peut-être une solution moins chère, mais comme toujours, tout dépend du fabricant, du matériau et du modèle. Généralement, un prix plus élevé signifie également un niveau de confort et d'esthétique plus élevé de la douche.
-
-![](/uploads/curbless3.jpg)
 
 ## Quels sont les avantages d'une douche sans bac à douche
 
