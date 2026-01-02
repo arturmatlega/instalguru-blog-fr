@@ -90,8 +90,6 @@ Peut-être êtes-vous intéressé par une **bonne sous-couche de sol qui offrira
 
 Ce type de matériau est un choix parfait si le sous-plancher a besoin d'être nivelé. La sous-couche de mousse XPS est disponible en différentes épaisseurs - parfois même 6 mm. Elle constitue donc une isolation parfaite et fonctionne idéalement dans les intérieurs non chauffés. C'est également une bonne solution si vous avez besoin d'une sous-couche de sol pour le chauffage par rayonnement. La sous-couche de sol en polystyrène extrudé résiste à l'humidité, réduit les bruits transmis et assure la durabilité du revêtement de sol.
 
-![](/uploads/underlay2.jpg)
-
 ## La meilleure sous-couche de sol - planchers chauffants
 
 Les matériaux destinés à être utilisés avec un chauffage par le sol doivent répondre à certaines exigences particulières. Quelle est la meilleure sous-couche de revêtement de sol dans ce cas ? Comme le suggèrent les experts, les tapis en polyéthylène haute densité méritent d'être pris en considération. Ces produits sont communément appelés HDPE.
@@ -119,8 +117,6 @@ Bien qu'il s'agisse d'une bonne sous-couche de sol dans la plupart des cas, cett
 ## Quelle est la meilleure sous-couche pour un sol irrégulier ?
 
 Si la surface est inégale, une bonne sous-couche est une question cruciale. La pose de planches sur un support irrégulier peut les faire bouger, se plier et s'endommager. Pour éviter cela, veillez à rendre la surface plane avant de poser un sol stratifié ou en vinyle.
-
-![](/uploads/underlay3.jpg)
 
 Quelle est la meilleure sous-couche de sol dans ce cas ? Si le sous-plancher ne présente que des différences mineures, il est recommandé d'utiliser du polystyrène extrudé (XPS). Il lisse les irrégularités, de sorte que le sol soit parfaitement régulier. Si le sous-plancher présente plus de bosses et que les différences de hauteur sont bien visibles, il faut couler un nouveau sol en béton. Une sous-couche de sol ordinaire ne suffit malheureusement pas.
 
