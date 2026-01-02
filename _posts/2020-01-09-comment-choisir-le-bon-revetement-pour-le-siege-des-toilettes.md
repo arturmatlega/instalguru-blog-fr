@@ -91,8 +91,6 @@ Le choix de la forme du siège des toilettes peut être un processus similaire. 
 
 Il existe également un autre groupe de produits, conçus spécifiquement pour les enfants. Il s'agit d'un siège de toilette spécial avec un couvercle attaché qui permet à un enfant en bas âge d'utiliser les toilettes normalement.
 
-![](/uploads/a7a5eed986b34897b5334e6a0dca650b.jpg)
-
 ## Un siège de toilettes moderne
 
 Lors du choix d'un siège de toilettes, on peut également prêter attention aux technologies modernes qui facilitent grandement l'utilisation des toilettes. L'une des caractéristiques les plus fondamentales à cet égard est un siège de toilettes à fermeture dite "douce", qui présente de nombreux avantages.
