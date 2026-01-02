@@ -78,8 +78,6 @@ Les tuyaux en polypropylène doivent être raccordés avec une soudeuse par fusi
 
 Les éléments du système PP-R peuvent également être raccordés par filetage. Pour ce faire, il faut des raccords avec un filetage mâle ou femelle spécial en laiton. De plus, un produit spécial est nécessaire pour faciliter le processus. L'huile pour filetage est fortement recommandée.
 
-![](/uploads/pipes2.jpg)
-
 ## Comment raccorder les tuyaux PEX ? Les informations les plus importantes
 
 Pour raccorder les tuyaux des systèmes de chauffage central et d'eau chaude, on utilise des raccords filetés ou à compression. Les deux méthodes de raccordement des tuyaux PEX donnent des résultats satisfaisants et résistent à divers facteurs.
@@ -87,8 +85,6 @@ Pour raccorder les tuyaux des systèmes de chauffage central et d'eau chaude, on
 Si des éléments filetés sont utilisés, il suffit de serrer l'écrou pour relier le tuyau et le raccord. De cette façon, la bague de fixation sera pressée sur le tube. La forme spéciale de l'anneau l'empêche de bouger lorsque l'écrou est serré.
 
 Si vous utilisez des raccords comprimés, une pince de serrage spéciale doit être placée directement sur le tube. Cette méthode de raccordement des tubes nécessite également une pince à sertir spéciale. L'outil doit être placé sur la pince de serrage, et le compresseur est mis en marche. Après quelques secondes, on entend un craquement caractéristique - cela signifie que la pince de serrage a été raccordée au tuyau.
-
-![](/uploads/pipes3.jpg)
 
 ## Raccordement des tuyaux PE - quelles sont les meilleures méthodes ?
 
