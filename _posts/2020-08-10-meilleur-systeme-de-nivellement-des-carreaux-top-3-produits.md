@@ -77,8 +77,6 @@ Un système de nivellement de tuiles est un **ensemble d'éléments grâce auxqu
 
 **L'utilisation d'un système moderne de nivellement des carreaux est une solution parfaite, tant pour les professionnels que pour les utilisateurs inexpérimentés.** Grâce à cette méthode, l'ensemble du processus est beaucoup plus facile et, surtout, plus rapide. On estime qu'un **système de nivellement des carreaux peut faire gagner jusqu'à 50 % de temps** par rapport à la pose de carreaux à l'aide d'entretoises traditionnelles.
 
-![Qu'est-ce qu'un système de nivellement des tuiles ?](/uploads/system-poziomowania-plytek-szczypce.jpg "Qu'est-ce qu'un système de nivellement des tuiles ?")
-
 ## Comment fonctionne un système de nivellement des tuiles?
 
 Un système de nivellement de carrelage standard contient des clips et **des cales de forme spéciale qui présentent des bosses caractéristiques à la surface**. Il est important d'utiliser ces deux éléments pour obtenir les résultats escomptés.
@@ -99,8 +97,6 @@ Notez que le type de carrelage que vous utilisez n'a pas d'importance. Ils peuve
 * grés,
 * granit,
 * pierre.
-
-![Où peut-on utiliser un système de nivellement des tuiles ?](/uploads/system-poziomowania-plytek-top3.jpg "Où peut-on utiliser un système de nivellement des tuiles ?")
 
 ## Un système de nivellement des tuiles en vaut-il la peine ? Avantages de la solution
 
@@ -124,13 +120,9 @@ Les extrémités légèrement surélevées des deux côtés d'une agrafe sont pl
 
 Il est courant qu'un tel ensemble contienne également des pinces spéciales. Grâce à elles, la mise en **place du système et de ses éléments est beaucoup plus rapide** et ne nécessite aucune force.
 
-![Système de nivellement des tuiles avec des clips en forme d'ancre](/uploads/system_poziomowania_ranking.jpg "Système de nivellement des tuiles avec des clips en forme d'ancre")
-
 ### Un système de mise à niveau des tuiles avec des clips et des cales standard
 
 L'une des options les plus couramment utilisées est un système de nivellement des tuiles qui utilise des **clips et des cales classiques**. Dans ce cas, un clip ressemble à une fenêtre avec une base en bas. La fenêtre est simplement l'espace pour une cale. C'est différent du système précédent - la cale doit être glissée au milieu du clip. Grâce aux bosses caractéristiques, on peut exercer une pression maximale sur la cale et, par conséquent, niveler parfaitement les carreaux.
-
-![Un système de mise à niveau des tuiles avec des clips et des cales standard](/uploads/system_poziomowania_ranking_2.jpg "Un système de mise à niveau des tuiles avec des clips et des cales standard")
 
 ### Un système de nivellement des tuiles réutilisable
 
@@ -141,8 +133,6 @@ Ce type de système de nivellement de tuiles utilise également deux éléments.
 {:.distinction.distinction-info.distinction-negative}
 
 Ce n'est pas une solution entièrement sans faille. Dans ce cas, vous devez utiliser des entretoises supplémentaires, ce qui prend plus de temps et peut être difficile pour les utilisateurs inexpérimentés. De plus, après avoir nivelé les tuiles, les clips doivent être retirés au bout de quelques heures. Cela pourrait ruiner le niveau des tuiles.
-
-![Un système de nivellement des tuiles réutilisables](/uploads/system_poziomowania_ranking_3.jpg "Un système de nivellement des tuiles réutilisables")
 
 ## Un système de nivellement des tuiles - à usage unique ou réutilisable?
 
