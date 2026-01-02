@@ -86,8 +86,6 @@ Un compteur d'eau numérique est certainement beaucoup plus précis, c'est pourq
 
 Si vous choisissez un compteur d'eau, sachez que les appareils sont classés en fonction de leur utilisation prévue pour l'eau chaude et l'eau froide. Un seul appareil ne suffit pas, sauf si vous utilisez un chauffage pour chauffer l'eau froide. Dans ce cas, vous n'avez besoin que d'un compteur d'eau pour l'eau froide.
 
-![](/uploads/wodomierz2.jpg)
-
 ### Un compteur d'eau spécialisé
 
 Si vous n'avez besoin que d'un compteur d'eau résidentiel pour votre maison ou votre appartement - il ne devrait pas y avoir de problème pour trouver le bon. En revanche, si vous avez besoin d'un compteur d'eau spécialisé, vous aurez peut-être besoin d'un plombier et de ses connaissances. Vous pouvez trouver les appareils suivants sur le marché :
