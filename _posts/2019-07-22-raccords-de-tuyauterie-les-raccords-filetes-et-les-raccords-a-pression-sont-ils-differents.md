@@ -73,8 +73,6 @@ La différence entre les systèmes de chauffage avec des raccords PEX réside da
 
 ### Systèmes de chauffage avec raccords filetés
 
-![](/uploads/6ff11734a9a849f79c5bf79cdea6dea0.png)
-
 Chaque système de chauffage utilise des **tuyaux PEX/AL/PEX** comme base. Ils sont toutefois reliés entre eux par divers raccords. Un raccord fileté se compose des éléments suivants :
 
 1. Un écrou fileté.
@@ -90,8 +88,6 @@ Les raccords de tuyaux filetés ont un écrou fileté qui doit être dévissé d
 Veillez à ne pas serrer l'écrou trop fort, car vous pourriez endommager le raccord et le tuyau.
 
 ### Un système de chauffage avec des raccords de tuyaux de presse
-
-![](/uploads/7e1cd077fb3640e6b0a524d398d1f7d9.png)
 
 Les raccords de tuyaux à sertir sont également couramment utilisés dans les systèmes de chauffage. Les raccords de tuyauterie à sertir comportent plusieurs éléments :
 
