@@ -85,8 +85,6 @@ Une pression d'eau trop basse n'est pas toujours due à la même cause. Un ensem
 
 Une autre raison de la faible pression de l'eau, aussi courante que l'accumulation de calcaire, est une fuite dans le système. **Les tuyaux et les raccords non étanches utilisés pour le transport de l'eau peuvent provoquer des fuites à l'extérieur du système, et seule une partie de l'eau arrive au point final**. Comment augmenter la pression de l'eau dans un tel cas ? Veillez à refermer ou à remplacer les éléments cassés.
 
-![](/uploads/water_pressure.jpg)
-
 ## Une pression d'eau parfaite ? Prenez soin de l'équipement adéquat
 
 La faible pression de l'eau dans la douche est probablement due à un équipement mal adapté - comme une pomme de douche ou une douche de pluie. **Les accessoires de douche doivent correspondre à la pression du système.** Les équipements aux exigences techniques élevées ne fonctionneront pas correctement.
